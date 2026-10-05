@@ -38,14 +38,16 @@ Read the canon in order:
 11. docs/10_QC_STANDARD.md
 12. docs/11_METADATA_STANDARD.md
 13. docs/12_REFERENCE_LIBRARY.md
+14. docs/13_CREATIVE_ASSEMBLY_STANDARD.md
+15. docs/14_RESEARCH_AND_FACTUALITY.md
 
 The prompts directory contains execution instructions. The docs directory defines what good means.
 
 ## Current status
 
-The brand, narrative philosophy, music philosophy, and visual direction have working standards.
+The brand, narrative philosophy, music philosophy, visual direction, voice personas, and performance system have working standards.
 
-Voice personas are defined as performance archetypes and will be refined through testing.
+Voice personas are performance archetypes and will be refined through actual casting and render tests.
 
 Gold-standard finished Rounds do not exist yet. The examples/gold-standard directory is intentionally reserved until complete pieces earn that designation.
 

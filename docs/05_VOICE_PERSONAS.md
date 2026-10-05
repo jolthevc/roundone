@@ -8,14 +8,11 @@ The voice library should contain a small set of distinct performance archetypes.
 
 Each persona exists because it changes how a story lands.
 
-Personas are not fictional characters.
-They are not impressions.
-They are not celebrity clones.
-They are not racial caricatures.
+Personas are not fictional characters, impressions, celebrity clones, or racial caricatures.
 
 Casting can be diverse, but identity should never be used as shorthand for a stereotype.
 
-## Persona selection principle
+## Selection principle
 
 Choose the voice that best serves the Round.
 
@@ -25,10 +22,9 @@ A quiet voice can create more pressure than a loud one.
 
 ## 1. The Elder
 
-### Function
-Perspective, gravity, patience, hard-earned truth.
+Function: perspective, gravity, patience, hard-earned truth.
 
-### Sound
+Sound:
 - older
 - weathered
 - warm
@@ -36,224 +32,138 @@ Perspective, gravity, patience, hard-earned truth.
 - controlled
 - unhurried
 
-### Best for
-- regret
-- mortality
-- time
-- second chances
-- relationships
-- craft
-- long arcs
-- quiet courage
+Best for regret, mortality, time, second chances, relationships, craft, long arcs, and quiet courage.
 
-### Performance behavior
-The Elder does not rush to impress.
-Pauses are comfortable.
-Intensity comes from certainty, not volume.
+Performance: comfortable pauses, no hurry to impress, intensity from certainty rather than volume.
 
-### Failure mode
-Becoming sentimental, grandfatherly, or artificially wise.
+Failure mode: sentimental, grandfatherly, artificially wise, theatrical.
 
-### Direction
-Speak like you have seen this mistake before and still believe the listener has time.
+Direction: speak like you have seen this mistake before and still believe the listener has time.
 
 ## 2. The Commander
 
-### Function
-Clarity, discipline, decisiveness, action.
+Function: clarity, discipline, decisiveness, action.
 
-### Sound
+Sound:
 - economical
 - firm
 - controlled
 - precise
 - low emotional waste
 
-### Best for
-- avoidance
-- discipline
-- difficult starts
-- fear
-- hesitation
-- standards
-- work
+Best for avoidance, discipline, difficult starts, fear, hesitation, standards, and work.
 
-### Performance behavior
-The Commander rarely shouts.
-Authority comes from compression.
+Performance: rarely shouts. Authority comes from compression.
 
-### Failure mode
-Drill-sergeant parody, macho theater, humiliation.
+Failure mode: drill-sergeant parody, macho theater, humiliation.
 
-### Direction
-You are not angry at the listener. You are removing ambiguity.
+Direction: you are not angry at the listener. You are removing ambiguity.
 
-## 3. The Corner
+## 3. The Corner Man
 
-### Function
-Intimacy under pressure.
+Function: intimacy under pressure.
 
-### Sound
+Sound:
 - close
 - urgent
 - human
 - direct
 - emotionally invested
 
-### Best for
-- comeback
-- failure
-- fear
-- competition
-- resilience
-- moments of decision
+Best for comeback, failure, fear, competition, resilience, and moments of decision.
 
-### Performance behavior
-Feels like someone speaking inches away between rounds.
-Can accelerate sharply.
-Can use profanity naturally.
-Can move from reassurance to command.
+Performance: feels inches away between rounds. Can accelerate sharply and use profanity naturally.
 
-### Failure mode
-Sports-movie cliche.
+Failure mode: sports-movie cliche.
 
-### Direction
-The listener is tired. You have sixty seconds to remind them what is still possible.
+Direction: the listener is tired. You have sixty seconds to remind them what is still possible.
 
 ## 4. The Storyteller
 
-### Function
-Immersion.
+Function: immersion.
 
-### Sound
+Sound:
 - cinematic
 - intimate
 - observant
 - patient
 - flexible
 
-### Best for
-- true stories
-- scenes
-- parables
-- objects
-- reveals
-- atmospheric pieces
+Best for true stories, scenes, parables, objects, reveals, and atmospheric pieces.
 
-### Performance behavior
-Lets the listener forget they are consuming motivation.
-Can disappear into the story before turning toward the listener.
+Performance: lets the listener forget they are consuming motivation, then turns toward them.
 
-### Failure mode
-Overly theatrical audiobook acting.
+Failure mode: theatrical audiobook acting.
 
-### Direction
-Tell the story like it matters, not like you are performing a trailer.
+Direction: tell the story like it matters, not like you are performing a trailer.
 
 ## 5. The Brother
 
-### Function
-Recognition, honesty, closeness, contemporary energy.
+Function: recognition, honesty, closeness, contemporary energy.
 
-### Sound
+Sound:
 - younger
 - conversational
 - credible
 - slightly irreverent
 - emotionally direct
 
-### Best for
-- self-deception
-- wasted time
-- ambition
-- relationships
-- identity
-- modern life
-- pieces with sharper language
+Best for self-deception, wasted time, ambition, relationships, identity, modern life, and sharper language.
 
-### Performance behavior
-Can call bullshit without sounding superior.
-Feels like a trusted peer who knows when to stop being polite.
+Performance: can call bullshit without sounding superior.
 
-### Failure mode
-Internet-bro slang, forced casualness, trying to sound young.
+Failure mode: internet-bro slang, forced casualness, trying to sound young.
 
-### Direction
-You care enough to say the thing a friend might avoid saying.
+Direction: you care enough to say the thing a friend might avoid saying.
 
 ## 6. The Orator
 
-### Function
-Rhythm, elevation, moral force, communal energy.
+Function: rhythm, elevation, moral force, communal energy.
 
-### Sound
+Sound:
 - resonant
 - musical
 - charismatic
 - emotionally expansive
 - rhythmically precise
 
-### Best for
-- conviction
-- courage
-- human dignity
-- sacrifice
-- responsibility
-- pieces that need a strong final lift
+Best for conviction, courage, human dignity, sacrifice, responsibility, and strong final lifts.
 
-### Performance behavior
-Uses cadence deliberately.
-Can build power without becoming melodramatic.
-May become the most vocally explosive persona when earned.
+Performance: uses cadence deliberately and can become explosive when earned.
 
-### Failure mode
-Imitating a preacher, copying culturally specific speech patterns, or turning every line into a sermon.
+Failure mode: imitating a preacher, copying culturally specific speech patterns, or turning every line into a sermon.
 
-### Direction
-Use rhythm to make the truth land. Do not perform a stereotype.
+Direction: use rhythm to make the truth land. Do not perform a stereotype.
 
 ## 7. The Scholar
 
-### Function
-Quiet intelligence, curiosity, reframing.
+Function: quiet intelligence, curiosity, reframing.
 
-### Sound
+Sound:
 - thoughtful
 - precise
 - understated
 - intimate
 - credible
 
-### Best for
-- historical stories
-- science
-- counterintuitive ideas
-- reframes
-- process
-- philosophical pieces grounded in facts
+Best for history, science, counterintuitive ideas, reframes, process, and philosophy grounded in facts.
 
-### Performance behavior
-Begins almost conversationally.
-Intensity arrives through the implications of what is being said.
+Performance: begins conversationally. Intensity arrives through implication.
 
-### Failure mode
-Lecture voice, detachment, academic stiffness.
+Failure mode: lecture voice, detachment, academic stiffness.
 
-### Direction
-You found something interesting. By the end, the listener realizes it matters personally.
+Direction: you found something interesting. By the end, the listener realizes it matters personally.
 
 ## Persona overlap
 
 Personas are coordinates, not boxes.
 
-A narrator may be:
+Examples:
 - 70% Storyteller, 30% Elder
-- 60% Brother, 40% Corner
+- 60% Brother, 40% Corner Man
 - 70% Scholar, 30% Storyteller
 
 Do not create endless named hybrids.
-
-Use the primary persona plus performance direction.
 
 ## Launch recommendation
 
@@ -263,7 +173,7 @@ Start by finding exceptional voices for approximately four broad needs:
 
 1. Storyteller
 2. Elder
-3. Corner / Brother
+3. Corner Man / Brother
 4. Commander / Orator
 
 Expand only when a new voice creates meaningful expressive range.
@@ -277,21 +187,18 @@ A voice must:
 - handle short aggressive sentences
 - handle long narrative sentences
 - sustain 5 to 7 minutes without fatigue
-- pronounce common names naturally
+- pronounce names naturally
 - remain convincing under music
 - avoid synthetic AI narrator cadence
+- remain credible at low and high intensity
 
 ## Originality
 
-Do not clone or imitate:
-- famous actors
-- famous motivational speakers
-- public figures
-- recognizable fictional characters
+Do not clone or imitate famous actors, famous motivational speakers, public figures, or recognizable fictional characters.
 
 The goal is for listeners eventually to recognize a ROUND ONE voice on its own terms.
 
-## Casting record
+## Future casting record
 
 For each approved production voice, eventually maintain:
 - internal voice ID
@@ -307,4 +214,4 @@ For each approved production voice, eventually maintain:
 - best soundtrack families
 - approved example Rounds
 
-This operational registry will be implemented later.
+This registry will be implemented later.
