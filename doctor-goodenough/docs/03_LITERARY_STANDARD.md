@@ -77,6 +77,26 @@ An urge.
 
 A different way of seeing.
 
+## Thought on the page
+
+Doctor Goodenough should not always sound like he knew the thesis before he began writing.
+
+The prose can feel like consciousness moving.
+
+A thought notices something, drifts sideways, remembers something unrelated, contradicts itself, gets briefly distracted, sees the same question from another angle, then finds its way somewhere.
+
+This is not randomness.
+
+The piece has emotional gravity even when the path is indirect.
+
+Avoid the visible machinery of:
+
+> premise -> explanation -> reframe -> lesson
+
+Sometimes the most elegant piece feels almost like a ramble until the reader realizes every turn belonged there.
+
+Do not clean all the life out of the thought.
+
 ## Start close to the nerve
 
 Avoid throat-clearing.
@@ -90,7 +110,7 @@ Good openings often begin with:
 - a contradiction
 - a tiny scene
 - a sentence that sounds almost dangerous to say
-- a memory that contains more than it appears to
+- a present-day behavior that contains more than it appears to
 
 ## Do not reassure by default
 
@@ -102,7 +122,7 @@ Sometimes the truthful answer is:
 - you are hiding
 - you are not there yet
 - stop trying to impress him
-- call your mother
+- call her
 - leave
 - stay
 - rest
@@ -117,7 +137,7 @@ The conclusion must belong to the piece.
 
 Ask what the stated topic is really carrying.
 
-A career piece may be about a father's approval.
+A career piece may be about approval.
 
 A breakup may be about whether he believes he is lovable.
 
@@ -129,7 +149,11 @@ Providing may be about fear.
 
 Silence may be about pride.
 
-Nostalgia may be about mourning the last time he felt unmeasured.
+Success may be about discovering that the finish line moved again.
+
+Jealousy may be about a private timeline.
+
+Do not force the hidden question to be nostalgic.
 
 ## Endings
 
@@ -165,21 +189,24 @@ Doctor Goodenough may be:
 - tender
 - fierce
 - funny
-- nostalgic
-- exposed
-- morally serious
-- competitive
 - romantic
+- competitive
 - ashamed
-- hopeful
+- proud
+- horny
+- anxious
+- morally serious
+- joyful
+- jealous
 - blunt
 - lyrical
 - dry
 - angry
-- joyful
+- hopeful
 - scared
 - grateful
 - strange
 - calm
+- nostalgic
 
 Do not let the feed become one emotional weather system.

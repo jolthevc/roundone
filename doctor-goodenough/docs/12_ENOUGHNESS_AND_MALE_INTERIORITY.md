@@ -34,6 +34,12 @@ Will I become enough before the people I want to make proud are gone?
 
 The project should understand those questions without reducing men to insecurity.
 
+Enoughness is the engine beneath the work.
+
+It should often remain beneath it.
+
+If every piece says "enough," the engine has become the hood ornament.
+
 ## The deeper version
 
 There are really three related questions:
@@ -45,6 +51,45 @@ There are really three related questions:
 That third question creates enormous depth.
 
 A man may spend decades chasing a standard he never consciously chose.
+
+## The primary terrain: now
+
+Doctor Goodenough's natural home is a man living his current life.
+
+This includes:
+
+- dating and being chosen
+- marriage and intimacy
+- sex and desire
+- work and ambition
+- money and status
+- comparison
+- jealousy
+- competence
+- friendship
+- loneliness
+- competition
+- responsibility
+- being relied upon
+- being needed
+- feeling behind
+- success that feels quieter than expected
+- failure that feels more public than it is
+- anger
+- restraint
+- confidence
+- embarrassment
+- the body
+- physical strength
+- appearance
+- risk
+- decisions
+- being alone with his own thoughts
+- the future he is actively building
+
+The present does not need a childhood memory to become meaningful.
+
+The present is already full of stakes.
 
 ## Core territories
 
@@ -88,7 +133,7 @@ Fear of being discovered as less impressive than she thinks.
 
 Learning that provision is not intimacy.
 
-Losing love because feelings were left unsaid.
+The peculiar vulnerability of loving someone enough that they can hurt you.
 
 Becoming gentler because someone made gentleness feel safe.
 
@@ -101,6 +146,10 @@ The fear of being useless.
 The shame of being behind.
 
 The relationship between salary and self-respect.
+
+Watching a friend buy something you cannot afford and doing arithmetic on the drive home.
+
+Getting the promotion and discovering the feeling lasts two days.
 
 The strange loneliness of becoming the person everyone calls when something goes wrong.
 
@@ -136,25 +185,23 @@ The fear of losing the person who remembers him before achievement.
 
 ### Childhood and innocence
 
-The time before worth became performance.
+Childhood is one available source of contrast, not the emotional home base of the brand.
 
-School buses.
+It can illuminate:
 
-Halloween.
-
-After-school laughter.
-
-Summer.
-
-Cheap costumes.
-
-Family kitchens.
-
-The ordinary things that later reveal themselves to have been precious.
-
-Do not romanticize all childhood.
+- innocence
+- dependence
+- uncomplicated joy
+- early fear
+- early models of manhood
+- the period before achievement became a scoreboard
+- how time changes the meaning of ordinary things
 
 Use specific memory.
+
+Avoid generic "simpler times."
+
+Do not reach for childhood merely because nostalgia produces emotion quickly.
 
 ### Friendship and brotherhood
 
@@ -164,7 +211,7 @@ Friendships maintained through jokes, sports, work, favors, trips, and shared hi
 
 The things men fail to ask one another.
 
-The grief of realizing an old friendship has become occasional texts.
+The intimacy of saying something serious while both men keep looking at the television.
 
 ### Anger, fear, shame
 
@@ -192,35 +239,7 @@ Physical competence.
 
 Appearance.
 
-The humiliation and humility of a body that eventually refuses to obey ambition.
-
-### The future
-
-Will it work out?
-
-Will I find love?
-
-Will I make enough?
-
-Will I be a good father?
-
-Will my parents still be here?
-
-Will I regret how I spent these years?
-
-What if everyone was right about me?
-
-What if everyone was wrong?
-
-### The past
-
-Who was I before I learned to measure myself?
-
-What did I love before I asked whether it was useful?
-
-When was I happiest without knowing I was happy?
-
-Which ordinary day would I give anything to visit once more?
+The strange relationship between looking strong and feeling strong.
 
 ### Joy
 
@@ -242,6 +261,7 @@ The project must notice:
 - work done well
 - being useful
 - being needed
+- taking a risk and having it work
 - a quiet room after a good day
 - moments when life is simply enough
 
@@ -249,41 +269,35 @@ Joy prevents the brand from becoming an archive of wounds.
 
 ## Past, present, future
 
-Doctor Goodenough has three temporal horizons.
-
-### Past
-
-The person before the armor.
-
-Childhood.
-
-Parents.
-
-First loves.
-
-Old friends.
-
-Missed chances.
-
-Simpler rituals.
+These are lenses, not quotas.
 
 ### Present
 
-The man now.
+The home base.
 
-His responsibilities.
+The man he is now, inside today's relationships, work, body, money, desires, responsibilities, mistakes, choices, embarrassments, victories, and fears.
 
-His mistakes.
+### Past
 
-His relationships.
+Useful when memory reveals something the present cannot reveal alone.
 
-His standards.
+Parents.
 
-His choices.
+Childhood.
+
+Old friends.
+
+First loves.
+
+Former selves.
+
+Missed chances.
+
+Do not confuse memory with depth.
 
 ### Future
 
-The man he is afraid or hopeful he may become.
+The man he hopes or fears he may become.
 
 A husband.
 
@@ -299,22 +313,26 @@ A man who regrets something.
 
 A man who finally stops proving.
 
-The tension among these timelines can create powerful pieces.
+The future matters because men build toward imagined versions of themselves every day.
 
 ## The key editorial balance
 
 Doctor Goodenough must never become:
 
 - a sadness brand
+- a nostalgia brand
 - a therapy brand
 - an anti-masculinity brand
 - a masculinity worship brand
 - an advice account
 - a grievance account
+- men complaining about the burden of being men
 
 He should understand men's vulnerabilities while respecting their strengths.
 
 He should see their strengths while recognizing their costs.
+
+He should also notice pleasure, absurdity, desire, competence, pride, humor, and joy.
 
 He should be capable of saying:
 
@@ -334,9 +352,9 @@ You should forgive yourself.
 
 You owe someone an apology.
 
-You were happier than you knew.
-
 You are allowed to want more.
+
+You got what you wanted. Why are you still restless?
 
 The truth changes from piece to piece.
 
@@ -344,4 +362,4 @@ That unpredictability is part of the trust.
 
 ## Core statement
 
-> **Doctor Goodenough writes for men trying to become men they can live with. He gives language to the fears, hopes, memories, duties, loves, doubts, and questions that gather around the feeling of never quite knowing whether you have done enough or become enough yet.**
+> **Doctor Goodenough writes for men trying to become men they can live with. He gives language to the fears, hopes, desires, duties, loves, doubts, victories, embarrassments, memories, and questions that gather around never quite knowing whether you have done enough or become enough yet.**

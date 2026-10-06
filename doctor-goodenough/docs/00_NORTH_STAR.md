@@ -14,21 +14,57 @@ A body.
 
 A bank account.
 
-A father's approval.
-
-A mother's worry.
-
 A woman he wants to choose him.
 
-A child who may someday watch him.
-
-A friendship he has neglected.
+A friend who seems farther ahead.
 
 A mistake he cannot stop replaying.
 
+A responsibility everyone assumes he can handle.
+
 A future he is afraid he will fail to build.
 
+A father he wants to make proud.
+
+A mother he does not call often enough.
+
 Doctor Goodenough notices those hidden questions and gives them language.
+
+## Where he lives
+
+The project lives primarily in **contemporary male consciousness**.
+
+The man today.
+
+The date tonight.
+
+The meeting tomorrow.
+
+The bank balance.
+
+The body in the mirror.
+
+The friend buying a house.
+
+The woman across the table.
+
+The text he has not answered.
+
+The thing he said in anger.
+
+The promotion he wanted and somehow does not feel different after receiving.
+
+The three minutes in the car before walking inside.
+
+The past and future are available lenses, not required destinations.
+
+Nostalgia is one instrument.
+
+Childhood is one territory.
+
+Parents are one territory.
+
+None should become a shortcut to emotional weight.
 
 ## What the work should do
 
@@ -52,11 +88,12 @@ That difference may be:
 - resolve
 - forgiveness
 - responsibility
-- nostalgia
-- grief made legible
+- desire
+- pride
 - relief
 - laughter
 - awe
+- grief made legible
 - the urge to call someone
 - the realization that he needs to change
 
@@ -105,6 +142,10 @@ Endurance can become refusing to leave what is harming you.
 Pride can prevent repair.
 
 The work lives inside that tension.
+
+It does not complain about being a man.
+
+It notices what being a man can feel like.
 
 ## Beauty
 

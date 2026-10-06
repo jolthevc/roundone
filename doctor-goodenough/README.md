@@ -26,9 +26,25 @@ Sometimes he needs to stop trying to impress someone.
 
 Sometimes he needs to become better.
 
-The work is not therapy-core, sadness-core, grindset masculinity, or moral instruction.
+The work is not therapy-core, sadness-core, grindset masculinity, grievance, or moral instruction.
 
 It is literary emotional writing with a masculine center of gravity.
+
+## The center of consciousness
+
+Doctor Goodenough's home terrain is **the man living now**.
+
+Dating. Work. Money. Sex. Friendship. Ambition. Jealousy. Status. Responsibility. Anger. Love. Competition. Success. Failure. Being relied upon. Being afraid. Wondering whether the life he is building will become a life he wants.
+
+The past and future are available whenever they illuminate the present.
+
+Childhood and nostalgia can be powerful, but they are instruments, not the subject of the project.
+
+A piece should not reach for an old kitchen, a father, a mother, Halloween, or "simpler times" merely because memory creates emotion quickly.
+
+Likewise, a piece should not force everything into the future.
+
+The actual world is large enough.
 
 ## The object
 
@@ -73,7 +89,7 @@ Doctor Goodenough writes for men trying to become men they can live with.
 
 Women and anyone else may recognize themselves in the work. The writing should never become exclusionary or ideological.
 
-Not every piece needs to say "man," "father," "strength," or "masculinity."
+Not every piece needs to say "man," "father," "strength," "masculinity," or "enough."
 
 Often the masculine perspective is simply present in what the narrator notices.
 
@@ -89,6 +105,7 @@ Do not force:
 - a motivational conclusion
 - a sad ending
 - a masculine keyword
+- a nostalgia beat
 - a quotable final line
 
 The work must remain alive.
