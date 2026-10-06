@@ -23,7 +23,7 @@ This repository is the creative source of truth for ROUND ONE.
 
 The current phase is intentionally focused on creative canon, not production infrastructure. The goal is to define what great ROUND ONE work is before building systems that produce it at scale.
 
-Read the canon in order:
+Read the main ROUND ONE canon in order:
 
 1. docs/00_BRAND_NORTH_STAR.md
 2. docs/01_PRODUCT_DEFINITION.md
@@ -42,6 +42,21 @@ Read the canon in order:
 15. docs/14_RESEARCH_AND_FACTUALITY.md
 
 The prompts directory contains execution instructions. The docs directory defines what good means.
+
+## Doctor Goodenough
+
+Doctor Goodenough is a distinct social-facing literary project inside the ROUND ONE world.
+
+It is not a shortened Round. It is a short literary object: a page of writing, usually read aloud by the same narrator, designed to make an ordinary human feeling newly visible.
+
+Its creative canon lives in:
+
+- `doctor-goodenough/README.md`
+- `doctor-goodenough/docs/`
+- `doctor-goodenough/prompts/`
+- `doctor-goodenough/examples/`
+
+The Doctor Goodenough canon deliberately uses **guardrails rather than formulas**. It should protect taste, truth, beauty, resonance, and consistency without making the work sound templated or machine-made.
 
 ## Current status
 
