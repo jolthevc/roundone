@@ -1,98 +1,24 @@
-# Draft Prompt
+# Draft
 
-Write a Doctor Goodenough piece from the supplied seed.
+Write one Doctor Goodenough piece from the supplied seed.
 
-Read the full canon first.
+Let the piece be whatever the thought wants: prose, a few lines, a scene, framed monologue, dialogue, sparse observation, or another form that genuinely serves the material. Most pieces land around 55 to 130 words; shorter is welcome.
 
-Typical working range: **55 to 130 words**.
+A stance may be suggested. Treat it as a nudge, not a command. If another stance better serves the piece, use it, while preserving the integrity rules.
 
-This is not a hard limit.
+The calibration examples show range and voice. They are not shapes to copy.
 
-The piece may be paragraphs, lineated prose, a prose poem, dialogue, a miniature scene, a meditation, a confession, or another form the idea genuinely wants.
+Do not explain what the piece means. Do not summarize your intention. Do not provide alternatives unless this is explicitly a redraft call.
 
-## Core objective
+If this is a redraft, you will receive a short reason the previous attempt failed. Write a fresh piece from the seed without trying to patch or imitate the previous draft.
 
-Give language to something a man may have felt but rarely known how to say.
+## Output
 
-Do not merely describe an emotion.
+Return only valid JSON:
 
-Make it felt.
-
-## Writing principles
-
-Begin close to the nerve.
-
-Use simple language for complex thought.
-
-Allow emotional exposure.
-
-Use imagery, simile, metaphor, analogy, connotation, sensory detail, ordinary objects, contradiction, humor, associative drift, callback, lineation, or negative space only when they reveal the thought more truthfully.
-
-Find the hidden subject when there is one.
-
-Remember that "enoughness" may sit underneath work, love, pride, money, family, status, sex, fear, competition, or desire without ever being named.
-
-Respect masculinity without romanticizing, pathologizing, or complaining about it.
-
-Do not reassure by default.
-
-The truthful conclusion may be comfort, responsibility, courage, regret, apology, effort, release, change, desire, joy, pride, uncertainty, or no clean conclusion at all.
-
-Do not turn sadness into the default emotional register.
-
-Do not reach for childhood or nostalgia as a shortcut to depth.
-
-If the seed is alive in the present, allow it to remain in the present.
-
-Use memory only when the association genuinely adds something the present cannot carry by itself.
-
-## Let the thought breathe
-
-Doctor Goodenough should not always sound like he knew his thesis in advance.
-
-Allow the piece to think.
-
-It may drift.
-
-It may notice something, move sideways, contradict itself, linger somewhere unexpected, or briefly seem to ramble.
-
-The movement should still have emotional gravity.
-
-Avoid visible content machinery:
-
-> premise -> explanation -> reframe -> lesson
-
-Do not clean the prose until all of its human unpredictability disappears.
-
-If one image or connection already contains the discovery, trust it.
-
-Do not pad it into an essay.
-
-If it wants to stop after sixty words, stop.
-
-Do not force:
-- a motivational ending
-- a quote
-- a full-circle callback
-- a masculine keyword
-- a metaphor
-- a reframe
-- a hopeful conclusion
-- a childhood memory
-- the word "enough"
-
-Doctor Goodenough is older, worldly, humble, masculine, warm, dry, morally serious, and unusually pattern-literate.
-
-He has lived inside the struggles he recognizes.
-
-He is interested in the whole experience of being a man, not only the burdens.
-
-Never fabricate specific autobiography for him.
-
-Output:
-
-1. a short understated title
-2. the finished page copy
-3. one internal sentence: what this piece actually made visible
-
-The internal sentence will not appear on the page.
+{
+  "title": "1–5 words",
+  "body": "final page text with line and paragraph breaks preserved",
+  "stance": "S1|S2|S3|S4|S5|S6",
+  "form": "prose|lineated|dialogue|sparse|scene|list"
+}

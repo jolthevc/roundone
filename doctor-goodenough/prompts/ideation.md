@@ -1,113 +1,32 @@
-# Ideation Prompt
+# Ideation
 
-You are developing possible Doctor Goodenough pieces.
+You are finding raw material for Doctor Goodenough pieces. You are not writing pieces.
 
-Read the full Doctor Goodenough canon first, especially the North Star and Enoughness and Male Interiority documents.
+Produce the requested number of seeds. A seed is a concrete situation from a man's life with something alive in it: a tension, pleasure, joke, contradiction, desire, small victory, embarrassment, uncertainty, or behavior that gives something away.
 
-Do not draft finished prose.
+Most seeds should live in the ordinary present. The supplied raw material exists only to help you see the week more clearly. Use it, combine it, or ignore it.
 
-Generate fertile human observations, tensions, contradictions, tiny behaviors, scenes, objects, questions, memories, or connections.
+Each seed should be specific enough that two different writers would picture roughly the same moment. Do not decide what the final piece means. Do not write titles, lines, morals, or endings. Leave room for the writer.
 
-The center of gravity is male interiority.
+Use recent-feed context to notice where the feed has been repetitive. Treat that as a nudge toward neglected territory, never as a quota.
 
-The **default terrain is present-day life**.
+## Output
 
-Start from what a man is living now:
+Return only valid JSON:
 
-- dating
-- work
-- money
-- status
-- sex
-- friendship
-- ambition
-- jealousy
-- comparison
-- responsibility
-- anger
-- fear
-- competence
-- the body
-- competition
-- love
-- success
-- failure
-- decisions
-- being relied upon
-- being needed
-- feeling behind
-- wanting more
-- not knowing whether what he wants will actually satisfy him
+{
+  "seeds": [
+    {
+      "situation": "1–2 concrete sentences",
+      "alive": "20 words max: what is interesting here",
+      "territory": "work|money|dating|love|desire|friendship|status|body|home|phone|family_now|travel|competition|success|failure|boredom|pleasure|night|errands|rituals|character|other",
+      "register": "light|warm|still|heavy|mixed",
+      "time": "now|past_lens|future_lens",
+      "stance_hint": "S1|S2|S3|S4|S5|S6|null",
+      "undercurrent": "optional 15 words max or null",
+      "stimuli_used": []
+    }
+  ]
+}
 
-The past and future are available when they genuinely illuminate the thought.
-
-Do not default to fathers, mothers, childhood, nostalgia, old houses, school memories, or "simpler times" merely because those themes generate emotion easily.
-
-Likewise, do not make every idea about pain.
-
-Generate from joy, desire, humor, pride, romance, absurdity, competition, pleasure, confidence, and things going right too.
-
-Look for the quiet question beneath a man's life:
-
-- Am I enough?
-- Am I becoming someone I respect?
-- Will I make them proud?
-- Will someone choose me?
-- Can I provide?
-- Am I useful?
-- Am I hiding?
-- What am I afraid to say?
-- Why am I still comparing?
-- What if I get what I want and still feel the same?
-- What if there is not enough time?
-
-Do not use these as a checklist.
-
-"Enoughness" should usually be latent rather than literal.
-
-Look for:
-
-- ordinary behaviors that expose an interior state
-- emotional contradictions
-- specific contemporary situations
-- surprising connections between distant parts of life
-- places where masculine virtues have shadows
-- places where a man needs truth rather than reassurance
-- moments of pleasure, competence, connection, or victory that contain something interesting too
-
-## Batch diversity
-
-When generating a batch, do not cluster around the most emotionally obvious theme.
-
-The batch should feel like the output of one interesting mind looking at a very large life.
-
-Seek real diversity in:
-
-- subject
-- emotional temperature
-- temporal orientation
-- form
-- level of abstraction
-- seriousness
-- humor
-- relationship context
-- degree of masculinity being explicit versus merely implicit
-
-Do not use quotas.
-
-Use judgment.
-
-For each idea, provide only:
-
-- working seed
-- the human pressure underneath it
-- possible hidden subject
-- one or two promising concrete images / behaviors / associations
-- why the idea may resonate
-- emotional temperature
-
-Do not write the ending.
-
-Do not manufacture a moral.
-
-Generate variety.
+The undercurrent is optional. Null is normal. Do not invent a hidden meaning merely to fill it.

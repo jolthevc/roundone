@@ -1,11 +1,16 @@
-# Rejected Examples
+# Rejected
 
-Use this directory for instructive failures.
+Rejected examples are clear failures that help an editor recognize a recurring problem.
 
-The purpose is not to shame weak drafts.
+Use the same metadata shape as near misses. Keep the collection small and specific.
 
-It is to preserve negative taste.
+Useful failure categories may include:
+- therapy voice
+- generic nostalgia
+- macho slogan
+- second-person sermon
+- quote-engineered ending
+- decorative metaphor
+- fake Doctor Goodenough autobiography
 
-Useful rejected examples may demonstrate fake profundity, decorative metaphor, therapy-speak, generic motivation, overexplaining, slogan endings, repetitive AI cadence, synthetic vulnerability, excessive solemnity, beautiful language with no discovery, or obscurity mistaken for depth.
-
-Always explain why the piece fails.
+This folder is intentionally awaiting real rejected workflow outputs rather than invented examples.

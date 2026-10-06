@@ -1,0 +1,78 @@
+# Code-facing editorial signals.
+# These are signals for the editor and diagnostics, not automatic taste gates.
+# Never send this file to the drafting model.
+
+expensive:
+  - healing
+  - becoming
+  - journey
+  - chapter
+  - season
+  - storm
+  - ocean
+  - demons
+  - darkness
+  - shadow
+  - scars
+  - wolf
+  - lion
+  - king
+  - warrior
+  - armor
+  - battle
+  - broken
+
+therapy:
+  - holding space
+  - protect your peace
+  - your truth
+  - inner child
+  - boundaries
+  - self-care
+  - toxic
+  - trauma
+  - triggered
+  - validate
+  - invisible battles
+  - version of yourself
+  - do the work
+  - safe space
+
+cta:
+  - save
+  - share
+  - follow
+  - tag
+  - comment
+  - link in bio
+
+title_signals:
+  - enough
+  - pride
+  - ambition
+  - fear
+  - love
+  - strength
+  - legacy
+  - masculinity
+  - manhood
+  - healing
+
+hard_checks:
+  - invalid_schema
+  - fabricated_doctor_goodenough_biography
+  - calibration_example_copying
+  - impossible_page_fit
+  - gross_length_overrun
+
+soft_signals:
+  - repeated_not_x_but_y
+  - em_dash_density
+  - second_person_imperative_ending
+  - aphoristic_ending
+  - literal_enough_repetition
+  - repeated_parent_material
+  - repeated_stance
+  - repeated_territory
+  - expensive_word_density
+  - therapy_language

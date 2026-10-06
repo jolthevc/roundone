@@ -1,0 +1,148 @@
+version: 1
+
+# The only definition of context supplied to Doctor Goodenough model calls.
+# Paths are relative to doctor-goodenough/.
+# A file not listed for a call is not sent to that call.
+
+calls:
+  ideation:
+    prompt: prompts/ideation.md
+    files:
+      - canon/01_identity.md
+    injected:
+      stance_modes:
+        - S1 observer
+        - S2 framed dramatic monologue
+        - S3 disposition first person
+        - S4 second-person recognition
+        - S5 dialogue or scene
+        - S6 general observation
+    runtime:
+      - batch_size
+      - today
+      - stimuli
+      - recent_seeds
+      - recent_mix
+      - operator_note
+
+  draft:
+    prompt: prompts/draft.md
+    files:
+      - canon/01_identity.md
+      - canon/02_persona.md
+      - canon/03_stance.md
+      - canon/04_craft.md
+    examples:
+      calibration:
+        target_count: 3
+        allow_fewer: true
+        visible_fields: [title, body]
+    runtime:
+      - seed
+      - stance_nudge
+      - redraft
+
+  editor:
+    prompt: prompts/editor.md
+    files:
+      - canon/01_identity.md
+      - canon/02_persona.md
+      - canon/03_stance.md
+      - canon/04_craft.md
+      - canon/05_editor.md
+    examples:
+      calibration:
+        target_count: 2
+        allow_fewer: true
+        visible_fields: [title, body]
+      near_miss:
+        target_count: 1
+        allow_fewer: true
+        visible_fields: [title, body, fails_because]
+      rejected:
+        target_count: 1
+        allow_fewer: true
+        visible_fields: [title, body, fails_because]
+    runtime:
+      - seed
+      - round
+      - draft_1
+      - draft_2
+      - checks
+      - recent_feed
+
+  performance:
+    prompt: prompts/performance.md
+    files:
+      - production/audio/performance.md
+      - production/audio/voice.md
+    runtime:
+      - body_final
+      - register
+      - stance
+      - form
+
+  packaging:
+    prompt: prompts/packaging.md
+    files:
+      - production/packaging.md
+      - production/visual/standard.md
+    runtime:
+      - title_final
+      - body_final
+      - register
+      - recent_subjects
+      - recent_captions
+
+  salvage:
+    prompt: prompts/salvage.md
+    trigger: human_only
+    files:
+      - canon/01_identity.md
+      - canon/02_persona.md
+      - canon/03_stance.md
+      - canon/04_craft.md
+      - canon/05_editor.md
+    examples:
+      calibration:
+        target_count: 2
+        allow_fewer: true
+      near_miss:
+        target_count: 1
+        allow_fewer: true
+      rejected:
+        target_count: 1
+        allow_fewer: true
+    runtime:
+      - seed
+      - draft_1
+      - draft_2
+      - editor_outputs
+      - operator_note
+
+ideation_sampling:
+  moments_per_run: 6
+  max_per_category: 1
+  prefer_present_day: true
+  past_and_future_are_lenses: true
+  heading: "Raw material. Use any of these, combine them, or ignore all of them. Do not list them back, and do not copy their wording."
+
+feed_signals:
+  # Diagnostics and nudges only. These never reject a good piece.
+  track:
+    - territory
+    - register
+    - time
+    - stance
+    - form
+    - parent_mention
+    - imperative_ending
+    - aphoristic_ending
+
+precedence:
+  - persona_integrity
+  - active_prompt_schema
+  - canon
+  - prompt_soft_guidance
+  - examples
+  - runtime_material

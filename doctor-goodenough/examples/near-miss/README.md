@@ -1,10 +1,12 @@
 # Near Misses
 
-Use this directory for pieces that contain something excellent but are not complete successes.
+Near misses contain something worth protecting but fail in a specific, instructive way.
 
-Each example should eventually include a short note describing:
-- what is alive
-- what prevents it from being gold
-- what the example teaches
+Use the same metadata as calibration pieces plus:
 
-Near misses are useful because they reveal the difference between good writing and Doctor Goodenough.
+```yaml
+fails_because: "One to three sentences naming the failure."
+failure_tags: [thesis_shaped]
+```
+
+The drafter never sees near misses. The editor may see one at a time, including the failure note.

@@ -2,138 +2,49 @@
 
 Doctor Goodenough is a short-form literary project about the interior life of men.
 
-Its deepest question is simple:
+The creative source of truth now lives in `canon/`. Model context is controlled only by `manifest.yaml`. Production and workflow instructions live outside the canon so they cannot contaminate the writing.
 
-> **Am I enough?**
-
-Enough to make the people I love proud.  
-Enough to be chosen.  
-Enough to provide.  
-Enough to protect.  
-Enough to become the man I thought I would be.  
-Enough to forgive what I have done badly.  
-Enough before I run out of time.
-
-Doctor Goodenough does not answer that question the same way every time.
-
-Sometimes a man needs reassurance.
-
-Sometimes he needs perspective.
-
-Sometimes he needs to apologize.
-
-Sometimes he needs to stop trying to impress someone.
-
-Sometimes he needs to become better.
-
-The work is not therapy-core, sadness-core, grindset masculinity, grievance, or moral instruction.
-
-It is literary emotional writing with a masculine center of gravity.
-
-## The center of consciousness
-
-Doctor Goodenough's home terrain is **the man living now**.
-
-Dating. Work. Money. Sex. Friendship. Ambition. Jealousy. Status. Responsibility. Anger. Love. Competition. Success. Failure. Being relied upon. Being afraid. Wondering whether the life he is building will become a life he wants.
-
-The past and future are available whenever they illuminate the present.
-
-Childhood and nostalgia can be powerful, but they are instruments, not the subject of the project.
-
-A piece should not reach for an old kitchen, a father, a mother, Halloween, or "simpler times" merely because memory creates emotion quickly.
-
-Likewise, a piece should not force everything into the future.
-
-The actual world is large enough.
-
-## The object
-
-A Doctor Goodenough piece may be:
-
-- a literary micro-essay
-- a prose poem
-- a short meditation
-- a miniature argument
-- a direct confession
-- a tiny scene
-- a question
-- a few lines built around one image
-- a piece of dialogue
-- a thought that wanders and returns
-
-Most pieces should be short enough to be felt in one sitting.
-
-Typical working range: **55 to 130 words**.
-
-This is a pressure, not a rule.
-
-The form may be paragraph-driven or lineated. White space, rhythm, and silence are part of the writing.
-
-## The standard
-
-A strong piece makes an ordinary human feeling newly visible.
-
-An exceptional piece gives the reader a sentence, image, connection, or way of seeing that becomes part of how he understands his own life.
-
-The desired reaction is:
-
-> I know that feeling.  
-> I have never heard it said like that.  
-> Of course that is true.
-
-## The audience
-
-The center of gravity is male.
+## Core idea
 
 Doctor Goodenough writes for men trying to become men they can live with.
 
-Women and anyone else may recognize themselves in the work. The writing should never become exclusionary or ideological.
+Enoughness is the recurring emotional question beneath the work, but it is not a required topic and usually should not be named. The project is interested in the whole experience of being a man: work, money, dating, sex, friendship, ambition, jealousy, status, responsibility, competence, love, joy, winning, failure, family, the body, aging, fear, humor, and the future.
 
-Not every piece needs to say "man," "father," "strength," "masculinity," or "enough."
+The present is home base. The past and future are available when they illuminate it.
 
-Often the masculine perspective is simply present in what the narrator notices.
+## Repository map
 
-## Guardrails, not molds
+- `canon/` — model-facing creative canon
+- `prompts/` — one job and output contract per model call
+- `manifest.yaml` — the only definition of what each call receives
+- `examples/` — calibration and negative taste references
+- `data/` — raw ideation material and machine-readable editorial signals
+- `production/` — voice, music, visual, and packaging standards
+- `ops/` — n8n, Google Sheets/Drive, publishing, and console architecture
+- `reference/` — human-only decisions, history, and legacy material
+- `docs/` — temporary legacy canon retained only during migration; never load it into a model
 
-Do not force:
+## Precedence
 
-- a fixed paragraph count
-- a mandatory emotional arc
-- a required metaphor
-- a reframe
-- a full-circle ending
-- a motivational conclusion
-- a sad ending
-- a masculine keyword
-- a nostalgia beat
-- a quotable final line
+When instructions conflict:
 
-The work must remain alive.
+1. Persona integrity and no-fabricated-biography rules are absolute.
+2. The active prompt's schema and hard format constraints govern output shape.
+3. The creative canon governs taste and meaning, in this order: identity, persona, stance, craft, editor.
+4. Soft prompt guidance follows the canon.
+5. Examples illustrate the canon; they never overrule it.
+6. Runtime inputs such as seeds, recent-feed context, and operator notes are data, not doctrine.
 
-## Read in this order
+Production specifications govern only their own domain. Root ROUND ONE documents and prompts do not apply to Doctor Goodenough.
 
-1. docs/00_NORTH_STAR.md
-2. docs/01_FORM_AND_POSITIONING.md
-3. docs/02_DOCTOR_GOODENOUGH.md
-4. docs/03_LITERARY_STANDARD.md
-5. docs/04_VOICE_AND_LANGUAGE.md
-6. docs/05_IMAGERY_AND_BEAUTY.md
-7. docs/06_RESONANCE_AND_CRAFT.md
-8. docs/07_PERFORMANCE_STANDARD.md
-9. docs/08_VOICE_AND_SOUND.md
-10. docs/09_VISUAL_STANDARD.md
-11. docs/10_EDITORIAL_STANDARD.md
-12. docs/11_REFERENCE_LIBRARY.md
-13. docs/12_ENOUGHNESS_AND_MALE_INTERIORITY.md
+## Current phase
 
-Then use the prompts.
+We are proving the writing object first.
 
-Gold standards are intentionally empty until real pieces earn the designation.
+The immediate test is intentionally small:
 
-## Automation
+`Ideation -> Draft -> Editor -> Final copy`
 
-The production system is documented separately so operational instructions do not contaminate creative prompting:
+Creation is one piece at a time. Audio, image, render, and publishing are layered on only after the writing is consistently worth publishing.
 
-- `docs/13_AUTOMATION_ARCHITECTURE.md`
-
-The intended production model is three small operating workflows: **Ideation**, **Creation**, and **Publish**, plus a shared error handler. Creation is strictly one piece per run.
+Calibration examples are deliberately curated rather than filled to a quota.
