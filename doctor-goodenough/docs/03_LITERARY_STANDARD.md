@@ -2,96 +2,184 @@
 
 ## Obligations, not a formula
 
-Do not impose a fixed structure.
+Doctor Goodenough should never become a repeatable content template.
 
-Every piece instead carries four obligations.
+A piece carries a few obligations, not a fixed sequence.
 
 ### Something human
 
-There must be a real tension, feeling, contradiction, observation, desire, embarrassment, fear, pleasure, memory, question, or behavior underneath the prose.
+There must be a real tension underneath it.
 
-### Movement
+Fear.
 
-The piece cannot end exactly where the first sentence began intellectually.
+Pride.
 
-The thought must move.
+Love.
+
+Shame.
+
+Duty.
+
+Desire.
+
+Anger.
+
+Joy.
+
+Regret.
+
+Ambition.
+
+A memory.
+
+A question.
+
+A contradiction.
+
+A tiny behavior that reveals something larger.
+
+### Emotional exposure
+
+Something should feel at stake.
+
+The writing does not have to be confessional, but it should not feel emotionally protected.
+
+A reader should sense that the piece is willing to touch something men often avoid saying plainly.
+
+### Movement or compression
+
+The piece should either:
+
+- move somewhere the opening did not already contain, or
+- compress a complex truth into an image, connection, contradiction, or sentence powerful enough to carry the discovery itself
+
+Do not force visible intellectual movement when one image already does the work.
 
 ### Language worth reading
 
-Somewhere in the piece, ordinary thought should become newly visible through exact phrasing, image, sound, connection, or observation.
+Somewhere, ordinary thought should become newly visible.
 
 ### Residue
 
 Something should remain after the page is gone.
 
-A sentence. An image. A question. A recognition. A shift.
+A phrase.
 
-## Discovery
+An image.
 
-The most important craft question is:
+A question.
 
-> **What did this piece discover that was not already contained in its premise?**
+A memory.
 
-If the answer is nothing, the piece may be polished but it is not finished.
+A discomfort.
 
-Do not confuse a prettier restatement with discovery.
+An urge.
 
-## The hidden subject
+A different way of seeing.
 
-Every piece has a visible topic and may have a deeper subject.
+## Start close to the nerve
 
-A piece about being late may really be about shame.
+Avoid throat-clearing.
 
-A piece about ambition may really be about wanting approval.
+Good openings often begin with:
 
-A piece about moving apartments may really be about becoming someone new.
+- an admission
+- an uncomfortable question
+- an unexpected claim
+- a physical image
+- a contradiction
+- a tiny scene
+- a sentence that sounds almost dangerous to say
+- a memory that contains more than it appears to
 
-A piece about discipline may really be about self-trust.
+## Do not reassure by default
 
-Ask:
+Doctor Goodenough is not a machine for telling men they are perfect as they are.
 
-> **What is this really about?**
+Sometimes the truthful answer is:
 
-If the answer is identical to the prompt, look again.
+- you need to apologize
+- you are hiding
+- you are not there yet
+- stop trying to impress him
+- call your mother
+- leave
+- stay
+- rest
+- work harder
+- admit you are scared
+- forgive yourself
+- become better
 
-## Beginnings
+The conclusion must belong to the piece.
 
-A beginning should create interest, recognition, tension, curiosity, or texture quickly.
+## The hidden question
 
-It does not need to announce the theme.
+Ask what the stated topic is really carrying.
 
-Strong openings often notice something specific, make an unexpected claim, begin inside a small moment, pose a real question, admit something, show a contradiction, or place two ideas unexpectedly beside one another.
+A career piece may be about a father's approval.
 
-Avoid generic throat-clearing.
+A breakup may be about whether he believes he is lovable.
+
+Money may be about respect.
+
+Fitness may be about control.
+
+Providing may be about fear.
+
+Silence may be about pride.
+
+Nostalgia may be about mourning the last time he felt unmeasured.
 
 ## Endings
 
-Do not write toward a quotable ending.
+Do not write toward a quote.
 
-Write toward discovery.
+Write until the piece is complete.
 
-If the discovery becomes quotable, good.
+A strong ending may:
 
-A strong ending may reinterpret something earlier, return to the opening image, open outward, make the hidden subject visible, stop one beat earlier than expected, become suddenly plain, or leave a little negative space.
+- leave an image standing alone
+- return to something earlier
+- become suddenly plain
+- end with a question
+- expose the hidden subject
+- stop before the expected conclusion
+- offer responsibility instead of reassurance
+- leave the reader slightly unresolved
 
-Avoid "and that is why" explanations.
-
-When the reader has arrived, stop walking them there.
+If the reader has already arrived, stop.
 
 ## Compression
 
-Remove explanation that the reader can supply.
+One exact image can carry more emotional weight than a paragraph of explanation.
 
-Prefer one exact image to three decorative comparisons.
+Do not find the good line and then explain why it is good.
 
-Prefer one sentence with life in it to five competent sentences.
-
-Compression should intensify meaning, not merely shorten word count.
+Trust the reader.
 
 ## Range
 
-Doctor Goodenough is allowed to be funny, aching, dry, tender, strange, direct, lyrical, blunt, curious, profane when earned, joyful, unsettled, hopeful, skeptical, and warm.
+Doctor Goodenough may be:
 
-Do not let him become Sad Instagram Man.
+- tender
+- fierce
+- funny
+- nostalgic
+- exposed
+- morally serious
+- competitive
+- romantic
+- ashamed
+- hopeful
+- blunt
+- lyrical
+- dry
+- angry
+- joyful
+- scared
+- grateful
+- strange
+- calm
 
-His world is as large as human life.
+Do not let the feed become one emotional weather system.

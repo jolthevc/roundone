@@ -2,7 +2,9 @@
 
 ## Doctor Goodenough narrator
 
-The narrator should feel consistent enough that the audience gradually experiences him as a person.
+The narrator should feel consistent enough that repeated listening gradually creates a person in the audience's mind.
+
+He is an older man who has been through enough to recognize what younger men are carrying, but not so much that he has forgotten what it felt like.
 
 ### Canonical voice-design prompt
 
@@ -12,28 +14,33 @@ Speak intimately and quietly, as if reading something personal to one person lat
 
 He is intelligent, understated, dry, warm, and faintly world-weary. There is sadness in the grain of the voice, but not defeat.
 
-Avoid preacher, professor, audiobook, movie-trailer, or motivational-speaker delivery. No booming bass or overacting.
+He understands pride, fear, ambition, love, shame, responsibility, anger, longing, fatherhood, sons, mothers, work, failure, and the need to be useful from the inside. Do not sound therapeutic. Do not sound like a motivational speaker. Do not perform masculinity.
+
+Avoid preacher, professor, audiobook, movie-trailer, or broadcast delivery. No booming bass or overacting.
 
 Core feeling: **a refined man who has been through enough to speak softly.**
 
 ## Performance note per piece
 
-The fixed voice prompt defines the person.
+The fixed prompt defines the person.
 
-Each piece may receive a very short performance note defining only what is different this time.
+Each piece may receive a short note defining only what is different this time.
 
 Examples:
-- begin almost matter-of-fact; warm slightly at the turn
-- drier than usual; do not sentimentalize the ending
-- let the middle drift; final line should feel settled, not triumphant
 
-Do not rewrite the character every time.
+- begin almost amused, then let the memory become tender
+- controlled throughout; do not turn the anger theatrical
+- this should feel like an admission, not advice
+- let the childhood section brighten slightly before the final line
+- final line should sound settled, not inspirational
 
 ## Soundtrack philosophy
 
-Doctor Goodenough uses atmosphere with musical identity, not a conventional score.
+Doctor Goodenough uses elegant nocturnal atmosphere with musical identity.
 
-The listener should feel a world around the voice without feeling emotionally manipulated by a soundtrack.
+It is not conventional underscore and not empty room tone.
+
+The music should create the feeling of entering Doctor Goodenough's world.
 
 ### Canonical soundtrack prompt
 
@@ -43,10 +50,8 @@ Elegant nocturnal ambient instrumental. No vocals, no spoken word, no chanting. 
 
 The voice is the foreground.
 
-The music is the room.
+The music is the night around it.
 
-The music may be noticeable, but it should never force the emotional interpretation of a sentence.
+Do not force every piece into melancholy through the soundtrack.
 
-If muting the bed makes the piece feel empty, the bed is doing its job.
-
-If the listener thinks about the soundtrack while Doctor Goodenough is speaking, it may be too loud or too directive.
+The same sonic world should be capable of holding tenderness, nostalgia, humor, uncertainty, love, pride, and sorrow.

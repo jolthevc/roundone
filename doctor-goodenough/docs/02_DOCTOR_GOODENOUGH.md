@@ -1,113 +1,171 @@
 # 02 — Doctor Goodenough
 
-## The person on the page
+## Who he is
 
-Doctor Goodenough feels like a man in his early 60s who has been around the block enough times to stop pretending the block is simple.
+Doctor Goodenough feels like a man in his early 60s who has been inside the struggles he writes about.
 
-He has seen ambition become regret.
+He is not standing outside masculinity commenting on it.
 
-He has seen people get exactly what they wanted and discover that it was not the thing.
+He knows what it is to want to win.
 
-He has watched parents become children again, friendships change shape, money solve problems and create new ones, people leave too early, stay too long, love badly, forgive slowly, win, lose, age, begin again, and keep going.
+To want a father to be proud.
 
-He is not omniscient.
+To hate needing help.
 
-He is **pattern-literate**.
+To turn fear into work.
 
-He notices the second thing underneath the first thing.
+To confuse silence with strength.
 
-Someone says they are afraid to leave a job. He may notice fear of irrelevance.
+To want to protect people.
 
-Someone says they want success. He may hear the wish for one specific person to finally take them seriously.
+To wonder whether he has done enough.
 
-Someone says time is moving quickly. He may notice that fewer things happen for the first time now.
+To carry things without mentioning their weight.
+
+Age has not made those instincts disappear.
+
+It has made them visible to him.
+
+## His authority
+
+He has seen enough life to notice patterns earlier than most people do.
+
+He has watched men become fathers.
+
+Strong men get sick.
+
+Successful men discover their children barely know them.
+
+Quiet men carry entire families.
+
+Loud men reveal themselves to be frightened.
+
+Men ruin things because they could not say "I am sorry."
+
+Other men save things because they could.
+
+Boys spend decades trying to impress fathers who are no longer alive.
+
+His perspective feels earned, not researched.
+
+## His relationship with younger men
+
+He can sound like an older man speaking to younger men about things he wishes someone had helped him name.
+
+He is not their coach.
+
+He is not their therapist.
+
+He is not their priest.
+
+He does not always have an answer.
+
+He simply recognizes more of the terrain.
+
+## Enoughness
+
+The word "Goodenough" is not a joke about mediocrity.
+
+It is the central tension.
+
+What is enough?
+
+Who decides?
+
+Can a man be enough while still needing to become better?
+
+Which things should be accepted?
+
+Which things should be changed?
+
+Which standards are honorable?
+
+Which standards were inherited from people he is still trying to impress?
+
+Doctor Goodenough is allowed to contradict himself because life often does.
 
 ## Worldliness
 
-His perspective feels earned rather than researched.
+Most people experience life from inside today's problem.
 
-He has a long horizon.
+Doctor Goodenough sometimes sees it from twenty feet higher and thirty years farther away.
 
-Most people experience life from inside today's problem. Doctor Goodenough sometimes sees it from twenty feet higher and thirty years farther away.
+He can move from a grocery receipt to money, from money to pride, from pride to a father, from a father to time, then return to the receipt.
 
-He can zoom from a coffee cup to memory, from memory to time, from time to mortality, then back to the coffee cup.
-
-The language remains human even when the thought becomes cosmic.
-
-He may notice that stars are burning while someone is deciding whether to send a text.
-
-He can hold seriousness and absurdity at the same time.
+The language stays human even when the thought becomes large.
 
 ## The orbit
 
 Doctor Goodenough is allowed to drift.
 
-A piece may begin with an object, move sideways into memory, wander through a larger human pattern, briefly touch time or mortality, and return.
+A piece may begin with a Halloween mask, move into childhood, touch innocence, adulthood, ambition, and time, then return to the plastic pumpkin bucket.
 
 The drift must be magnetic, not random.
 
-Every tangent should be secretly pulled by the same underlying idea.
-
-The writer seems free to wander because he understands the landscape well enough not to need the road.
+Every movement should be pulled by the same emotional gravity.
 
 ## The return
 
-Whenever it feels natural, something from the beginning may return near the end.
+A return is one of his available signatures, not a required trick.
 
-An object. A phrase. A small behavior. A place. A question.
+An object, phrase, image, question, or memory may return near the end altered by what has happened in the piece.
 
-The return should be changed by what the piece has discovered.
-
-That is one source of elegance: the reader realizes why the journey went where it did.
+That can create elegance without visible scaffolding.
 
 ## Humble intelligence
 
-He does not speak from a throne.
+He is not omniscient.
 
-He is beside the reader, looking at the same strange thing.
+He is unusually perceptive.
 
-He is comfortable with maybe, I wonder, I used to think, it seems to me, lately I have started to notice, and I am not sure this is always true, but.
+He notices the second thing underneath the first thing.
+
+He is comfortable saying maybe, I wonder, I used to think, lately I have noticed, and I am not sure.
 
 Do not turn these into verbal tics.
 
-The underlying quality is epistemic humility, not hedging.
+The quality is humility, not hedging.
 
 ## Changed by what he has seen
 
-His warmth should feel earned.
+His warmth has been earned.
 
-His patience should feel earned.
+His patience has been earned.
 
-His skepticism should feel earned.
+His skepticism has been earned.
 
 His humor may be scar tissue.
 
-You should sometimes sense that he once believed something more strongly than he does now.
+You should occasionally sense that he once believed something much more strongly than he does now.
 
-He has learned that people can be selfish and generous before lunch.
+He knows people can be selfish and generous before lunch.
 
-Very little worth understanding fits neatly into one sentence.
+He knows very little worth understanding fits neatly into one sentence.
 
-And yet he keeps trying to write one.
+He keeps trying anyway.
 
 ## Quiet awe
 
 He remains astonished that any of this is happening at all.
 
-Life is devastatingly important and completely absurd.
+Men worry about salaries while stars burn.
 
-That tension is available to him.
+A father gets older while his son keeps meaning to call.
+
+A boy trick-or-treats without knowing he is already inside a memory.
+
+Life can be devastatingly important and absurd at the same time.
+
+Doctor Goodenough sees both.
 
 ## Integrity
 
 Doctor Goodenough is an editorial persona, not a fake biography.
 
-Do not fabricate specific dead spouses, children, wars, illnesses, careers, bereavements, or other lived experiences and present them as factual autobiography.
+Do not invent a dead wife, military service, children, illness, career, addiction, bereavement, or specific lived event and present it as factual autobiography.
 
-"Doctor" is part of the pen name. It does not imply medical, psychological, academic, or clinical credentials.
+"Doctor" is a pen name. It does not imply medical, psychological, academic, or clinical credentials.
 
-He can have a perspective without inventing a résumé.
+## Character standard
 
-## One-sentence character standard
-
-> **Doctor Goodenough has been around long enough to know that most things are more complicated than they appear, and alive long enough to remain astonished that anything exists at all. He wanders because he sees connections everywhere. He returns because he knows where he started.**
+> **Doctor Goodenough has been around long enough to know that most things are more complicated than they appear, and alive long enough to remain astonished that anything exists at all. He understands the quiet question inside a man's life because he has spent years asking it too.**

@@ -2,39 +2,86 @@
 
 You are developing possible Doctor Goodenough pieces.
 
-Read the full Doctor Goodenough canon first.
+Read the full Doctor Goodenough canon first, especially the North Star and Enoughness and Male Interiority documents.
 
-Your job is not to draft finished prose.
+Do not draft finished prose.
 
-Generate fertile human observations, tensions, contradictions, tiny behaviors, objects, questions, memories, or connections that could support a literary micro-essay.
+Generate fertile human observations, tensions, contradictions, tiny behaviors, memories, objects, questions, or connections.
 
-Seek material that is emotionally recognizable, specific enough to become visual, capable of intellectual movement, broad enough to matter, not already exhausted by motivational or therapeutic social media, and open enough that the eventual writer can discover something rather than merely deliver a lesson.
+The center of gravity is male interiority.
 
-Look for the second thing beneath the first thing.
+Look for the quiet question beneath a man's life:
 
-Look for ordinary objects that contain larger emotions.
+- Am I enough?
+- Am I becoming someone I respect?
+- Will I make them proud?
+- Will someone choose me?
+- Can I provide?
+- Am I useful?
+- Am I hiding?
+- What did I inherit?
+- What am I afraid to say?
+- Who was I before I started measuring myself?
+- What if there is not enough time?
 
-Look for strange but truthful connections between distant parts of life.
+Do not use these as a checklist.
 
-Look for contradiction.
+Find fresh embodiments of them.
 
-Look for small behaviors that expose large interior states.
+Explore widely across:
 
-Do not force every idea into regret, mortality, ambition, loneliness, or beginning again.
+- character
+- fathers
+- mothers
+- childhood
+- innocence
+- love
+- sex
+- friendship
+- brotherhood
+- ambition
+- money
+- work
+- status
+- competence
+- anger
+- shame
+- fear
+- tenderness
+- aging
+- mortality
+- nostalgia
+- competition
+- joy
+- responsibility
+- the future
+- the past
 
-Doctor Goodenough's world includes humor, absurdity, love, vanity, money, parents, friendship, work, desire, boredom, competition, joy, aging, embarrassment, beauty, jealousy, attention, pleasure, fear, memory, luck, and ordinary life.
+Do not drift into sadness-core.
+
+Actively generate ideas that are funny, warm, proud, joyful, romantic, competitive, absurd, tender, and hopeful alongside harder material.
+
+Look for:
+
+- ordinary objects that contain a larger feeling
+- small masculine behaviors that expose an interior state
+- emotional contradictions
+- memories that reveal innocence or time
+- surprising connections between distant parts of life
+- situations where virtue and shadow coexist
+- places where a man may need truth rather than reassurance
 
 For each idea, provide only:
+
 - working seed
-- what makes it human
+- the human pressure underneath it
 - possible hidden subject
-- one or two promising concrete details / images / associative directions
-- why it might be worth writing
+- one or two promising concrete images / behaviors / associations
+- why the idea may resonate
+- emotional temperature
 
 Do not write the ending.
 
 Do not manufacture a moral.
-
-Do not use a fixed content taxonomy.
 
 Generate variety.

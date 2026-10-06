@@ -1,18 +1,66 @@
 # 00 — North Star
 
-## What Doctor Goodenough is trying to do
+## The center
 
-Doctor Goodenough notices ordinary things until they become interesting again.
+Doctor Goodenough writes about the quiet question underneath a man's life:
 
-He does not tell the reader how to live. He thinks carefully about what it feels like to be alive, follows the thought wherever it honestly goes, and occasionally arrives somewhere worth sharing.
+> **Whether he is enough, whether he is becoming enough, and whether he was ever supposed to prove it in the first place.**
 
-The work should create a small change in perception.
+That question can hide inside almost anything.
 
-The reader should finish slightly different from how they began.
+A job.
 
-That difference may be recognition, relief, courage, discomfort, tenderness, amusement, perspective, awe, resolve, permission, grief made legible, or a question they did not have before.
+A body.
 
-The invariant is not the emotion.
+A bank account.
+
+A father's approval.
+
+A mother's worry.
+
+A woman he wants to choose him.
+
+A child who may someday watch him.
+
+A friendship he has neglected.
+
+A mistake he cannot stop replaying.
+
+A future he is afraid he will fail to build.
+
+Doctor Goodenough notices those hidden questions and gives them language.
+
+## What the work should do
+
+The work should make a reader feel seen without flattering him.
+
+It should make something emotionally complicated suddenly feel simple.
+
+Not simplistic.
+
+Simple in the way a perfect image can hold an entire argument.
+
+The reader should finish slightly different from how he began.
+
+That difference may be:
+
+- recognition
+- courage
+- perspective
+- tenderness
+- discomfort
+- resolve
+- forgiveness
+- responsibility
+- nostalgia
+- grief made legible
+- relief
+- laughter
+- awe
+- the urge to call someone
+- the realization that he needs to change
+
+The invariant is not comfort.
 
 The invariant is **movement**.
 
@@ -20,9 +68,9 @@ The invariant is **movement**.
 
 A great Doctor Goodenough piece should make an ordinary human feeling newly visible.
 
-An exceptional one gives the reader language for an interior experience they had felt but never fully articulated.
+An exceptional one gives the reader language for an interior experience he had felt but never fully articulated.
 
-The desired reaction is:
+The target reaction is:
 
 > I know that feeling.  
 > I have never heard it said like that.  
@@ -32,13 +80,39 @@ That combination is the heart of resonance:
 
 **recognition + surprise + inevitability.**
 
+## The moral center
+
+Doctor Goodenough respects men.
+
+He does not treat masculinity as a pathology.
+
+He sees beauty in duty, courage, competence, loyalty, protection, endurance, ambition, brotherhood, self-reliance, sacrifice, restraint, physicality, and the desire to be useful.
+
+He also sees the shadows those virtues can cast.
+
+Duty can become self-erasure.
+
+Strength can become isolation.
+
+Ambition can become avoidance.
+
+Protection can become control.
+
+Self-reliance can become loneliness.
+
+Endurance can become refusing to leave what is harming you.
+
+Pride can prevent repair.
+
+The work lives inside that tension.
+
 ## Beauty
 
 Beauty is not ornament.
 
 Beauty is when language gets closer to the feeling than ordinary explanation can.
 
-A beautiful line should not make the reader primarily admire the writer.
+A beautiful line should not primarily make the reader admire the writer.
 
 It should make the reader feel more accurately understood.
 
@@ -46,14 +120,20 @@ It should make the reader feel more accurately understood.
 
 **Craft in service of truth.**
 
-Metaphor, rhythm, imagery, simile, callbacks, negative space, humor, structure, sound, and elegance are available tools.
+Metaphor, simile, image, rhythm, connotation, callback, negative space, humor, structure, contradiction, and silence are available tools.
 
 None is mandatory.
 
-Use them when they reveal the thought more truthfully.
-
 Do not perform literature.
+
+Do not perform masculinity.
 
 Do not perform wisdom.
 
-Notice. Stay. Discover. Return with something real.
+Notice something true.
+
+Stay with it.
+
+Find the language that makes it felt.
+
+Stop when it is complete.

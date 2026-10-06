@@ -2,7 +2,7 @@
 
 ROUND ONE is a daily spoken-word audio ritual built to change the listener's state.
 
-The creative model is simple:
+The flagship creative model is:
 
 **Story -> realization -> fire.**
 
@@ -19,51 +19,33 @@ A Round takes the listener somewhere worth going, shows them something true, let
 
 ## Repository purpose
 
-This repository is the creative source of truth for ROUND ONE.
+This repository is the creative source of truth for ROUND ONE and its adjacent creative properties.
 
-The current phase is intentionally focused on creative canon, not production infrastructure. The goal is to define what great ROUND ONE work is before building systems that produce it at scale.
-
-Read the main ROUND ONE canon in order:
-
-1. docs/00_BRAND_NORTH_STAR.md
-2. docs/01_PRODUCT_DEFINITION.md
-3. docs/02_NARRATIVE_STANDARD.md
-4. docs/03_NARRATIVE_ARCHETYPES.md
-5. docs/04_WRITING_AND_TONE.md
-6. docs/05_VOICE_PERSONAS.md
-7. docs/06_PERFORMANCE_STANDARD.md
-8. docs/07_MUSIC_STANDARD.md
-9. docs/08_VISUAL_STANDARD.md
-10. docs/09_CONTENT_PROGRAMMING.md
-11. docs/10_QC_STANDARD.md
-12. docs/11_METADATA_STANDARD.md
-13. docs/12_REFERENCE_LIBRARY.md
-14. docs/13_CREATIVE_ASSEMBLY_STANDARD.md
-15. docs/14_RESEARCH_AND_FACTUALITY.md
-
-The prompts directory contains execution instructions. The docs directory defines what good means.
+The current phase is intentionally focused on creative canon, not production infrastructure. The goal is to define what great work is before building systems that produce it at scale.
 
 ## Doctor Goodenough
 
 Doctor Goodenough is a distinct social-facing literary project inside the ROUND ONE world.
 
-It is not a shortened Round. It is a short literary object: a page of writing, usually read aloud by the same narrator, designed to make an ordinary human feeling newly visible.
+It is not a shortened Round and not a generic poetry account.
 
-Its creative canon lives in:
+Doctor Goodenough primarily speaks to the interior life of men: the quiet question of whether they are enough, whether they are becoming enough, and whether they were ever supposed to prove it in the first place.
+
+Its world includes character, love, fathers, mothers, childhood, innocence, ambition, money, work, friendship, anger, fear, shame, responsibility, aging, nostalgia, joy, failure, pride, tenderness, mortality, and the future.
+
+Its canon lives in:
 
 - `doctor-goodenough/README.md`
 - `doctor-goodenough/docs/`
 - `doctor-goodenough/prompts/`
 - `doctor-goodenough/examples/`
 
-The Doctor Goodenough canon deliberately uses **guardrails rather than formulas**. It should protect taste, truth, beauty, resonance, and consistency without making the work sound templated or machine-made.
+The Doctor Goodenough canon uses **guardrails rather than formulas**. It protects taste, truth, beauty, resonance, and consistency without making the work sound templated or machine-made.
 
 ## Current status
 
-The brand, narrative philosophy, music philosophy, visual direction, voice personas, and performance system have working standards.
+The ROUND ONE flagship canon is established and continues to evolve through finished work.
 
-Voice personas are performance archetypes and will be refined through actual casting and render tests.
+Doctor Goodenough now has a dedicated literary, visual, voice, and editorial canon. Gold-standard examples are intentionally withheld until complete pieces earn that designation.
 
-Gold-standard finished Rounds do not exist yet. The examples/gold-standard directory is intentionally reserved until complete pieces earn that designation.
-
-Workflow architecture, APIs, storage, orchestration, personalization, and delivery mechanics are intentionally deferred until the creative system is proven.
+Workflow architecture, APIs, storage, orchestration, personalization, and delivery mechanics remain secondary to proving the creative object.

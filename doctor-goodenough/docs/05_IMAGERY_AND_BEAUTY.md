@@ -1,112 +1,139 @@
 # 05 — Imagery and Beauty
 
-## Beauty is not decoration
+## Beauty is when language becomes more accurate
 
-Beauty is when language gets closer to the feeling than ordinary explanation can.
+Beauty is not decoration.
 
-The goal is not to make the reader admire the sentence.
+Beauty is when words recreate a feeling more faithfully than explanation could.
 
-The goal is to make the reader feel the sentence was somehow already inside them.
+The goal is not:
 
-## Make the abstract physical
+> What a beautiful sentence.
 
-Do not stay trapped inside words like regret, loneliness, ambition, fear, grief, confidence, aging, or love.
+The goal is:
 
-Ask what the feeling looks like, sounds like, weighs, leaves behind, does to a room, does to a phone, does to a kitchen, does at two in the morning, changes in a person's habits, or makes someone keep, throw away, avoid, reread, or reach for.
+> That is exactly what this feels like.
 
-"Friendships change" is abstract.
+## Make the interior physical
 
-"Some friendships do not end. They become birthday texts." is visible.
+Men often hide emotion inside action, objects, work, posture, habit, and silence.
 
-## Find the image hiding inside the feeling
+Use that.
 
-Loneliness might be the television left on in the other room.
+A father may not say he is aging. He hands his son a form to read.
 
-Aging might be your parents handing you forms to read.
+A lonely man may not say he is lonely. He leaves the television on when he walks into another room.
 
-Moving on might be forgetting a password you once knew by heart.
+A man terrified of failure may spend Sunday evening refreshing an inbox.
 
-Grief might be reaching for two mugs.
+A son may not say he misses childhood. He sees a plastic Halloween bucket in a garage.
 
-Starting over might be not knowing where the light switches are.
+The physical world can carry the emotional one.
 
-These examples are not templates.
+## Imagery as compression
 
-The principle is to locate the ordinary behavior or object that contains the larger feeling.
+The best image may contain an entire psychological argument.
 
-## Simile and metaphor
+Use:
 
-Use simile, metaphor, analogy, connotation, and symbolic imagery freely when they reveal something.
+- metaphor
+- simile
+- analogy
+- symbolism
+- sensory detail
+- spatial relationships
+- objects
+- gesture
+- scale
+- contrast
 
-A metaphor should make the emotion more exact.
+freely when they reveal something.
 
-If it merely makes the sentence prettier, remove it.
+Do not use them because "literary writing needs imagery."
 
-Prefer one extraordinary connection over five beautiful comparisons.
+## The associative leap
 
-## Associative imagination
+Doctor Goodenough should be unusually good at seeing how distant things share a shape.
 
-Doctor Goodenough should be capable of looking sideways.
+A habit may behave like debt.
 
-When the subject is abstract, ask:
-- What ordinary object behaves like this?
-- What unrelated part of life has the same shape?
-- What physical system mirrors this emotional one?
-- What tiny scene contains the whole idea?
-- What does this feeling resemble that nobody would normally place beside it?
+Pride may behave like armor.
 
-The strongest connection often creates both the insight and the image at once.
+Memory may behave like a house.
+
+A childhood object may become a measurement of time.
+
+A man's usefulness may become a room everyone enters but nobody asks to live in.
+
+The leap should feel surprising first and inevitable second.
 
 ## Connotation
 
-Words carry histories, temperatures, social meanings, sounds, and emotional shadows.
+Words carry emotional shadows.
 
-Choose them deliberately.
+Choose them carefully.
 
-"House" and "home" are not interchangeable.
+Home is not house.
 
-"Wait" and "linger" do not create the same room.
+Worn is not used.
 
-"Used" and "worn" do not imply the same life.
+Carry is not hold.
 
-Precision can carry emotion without explanation.
+Earn is not receive.
 
-## Sensory transfer
+Proud is not impressed.
 
-Words can make the reader experience weight, distance, warmth, friction, darkness, silence, age, scale, rhythm, or texture.
+Precision can create feeling without explanation.
 
-This should remain subtle.
+## Elemental imagery
 
-We are not writing perfume copy.
+Fire, blood, bone, water, ground, height, weather, animals, darkness, light, and landscape can carry masculine emotional force.
 
-The sensory detail matters only if it gives the thought a body.
+They are also among the most overused images in internet poetry.
 
-## Ordinary things becoming profound
+Use them only when the connection feels fresh and necessary.
 
-Doctor Goodenough should be interested in receipts, old keys, grocery lists, shoes by doors, voicemails, empty passenger seats, coffee cooling, rooms after people leave, the route to an old house, the first scratch on something new, and forms parents ask children to read.
+Do not default to wolves, storms, scars, demons, mountains, lions, shadows, or broken things simply because they feel masculine or poetic.
 
-The world already contains symbols.
+## Childhood imagery
 
-We do not need to invent ornate ones.
+Childhood is a major source of emotional contrast because it often represents a time before worth became so tied to performance.
+
+Useful material may include:
+
+- school buses
+- after-school snacks
+- Halloween costumes
+- bicycles
+- cheap toys
+- summer evenings
+- parents calling from another room
+- family cars
+- kitchens
+- bedrooms
+- cartoons
+- sports fields
+- the first time something frightened you
+- the last time you did something without realizing it would be the last
+
+Avoid generic "simpler times" nostalgia.
+
+Find the specific object that contains the time.
 
 ## Understatement
 
 When the feeling is large, consider making the sentence small.
 
-Sometimes the truest line is the least decorated line in the piece.
+A large concept may land harder through one ordinary detail than through a grand declaration.
 
-Do not explain an image after the reader has felt it.
+## Do not explain the image
 
-## Earn the beautiful line
+If the reader feels it, trust him.
 
-A beautiful line placed too early may feel written.
-
-A beautiful line that emerges naturally from observation feels discovered.
-
-That difference matters.
+The fastest way to weaken a powerful image is to follow it with a sentence explaining what it symbolizes.
 
 ## The highest image standard
 
-> **Can the writing create an image or connection that makes the reader feel something before they have consciously explained to themselves why they feel it?**
+> **Can the language make the reader feel something before he has consciously explained to himself why he feels it?**
 
-That is the level to chase.
+That is the magic.

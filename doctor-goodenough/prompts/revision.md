@@ -6,23 +6,46 @@ Read the canon first.
 
 Do not rewrite merely to make the prose different.
 
-Protect the sentences, images, rhythms, and discoveries that already have life.
+Protect the parts that already feel true.
 
 Solve the actual weakness.
 
-The revision may need to remove explanation, become more concrete, find the hidden subject, deepen an associative connection, sharpen a contradiction, replace a decorative metaphor, make a large feeling physical, simplify a sentence, allow more air, improve sentence music, become less solemn, use humor or plainness, change the ending, stop earlier, return to an earlier image, or remove a supposedly beautiful line that is calling attention to itself.
+A revision may need to:
+
+- become shorter
+- remove explanation
+- become more emotionally exposed
+- become less sad
+- become less therapeutic
+- become less motivational
+- become less performatively masculine
+- find a more exact physical image
+- sharpen the hidden subject
+- deepen a contradiction
+- use more ordinary language
+- use stronger connotation
+- improve lineation
+- change form
+- add humor
+- add warmth
+- make the masculine tension more implicit
+- stop sooner
+- remove a beautiful line that is calling attention to itself
+- turn a paragraph into one image
+- turn an image into a whole piece
 
 Do not chase maximum lyricism.
 
-Do not make every sentence quotable.
+Do not make every line quotable.
 
-Do not force a full-circle ending, metaphor, callback, or reframe if the piece does not want one.
+Do not force "enoughness" to be named.
 
-The goal is not polish.
+Do not force fathers, childhood, sadness, or masculinity into pieces that do not need them.
 
-The goal is greater truth, greater resonance, greater beauty, and more natural movement of thought.
+The goal is greater truth, resonance, beauty, compression, and natural movement.
 
 Output:
+
 1. title
 2. revised page copy
 3. a short note explaining what changed and why

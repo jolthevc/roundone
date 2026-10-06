@@ -1,6 +1,8 @@
 # Performance Adaptation Prompt
 
-Convert the locked Doctor Goodenough page copy into a performance script for the canonical Doctor Goodenough narrator.
+Convert the locked Doctor Goodenough page copy into a performance script for the canonical narrator.
+
+Read the performance and voice docs first.
 
 The literary page copy is the source of truth.
 
@@ -10,7 +12,14 @@ Preserve the words whenever possible.
 
 Your job is to score time, breath, emphasis, and emotional temperature.
 
+Doctor Goodenough sounds like an older man who has lived inside many of the pressures the piece may touch: pride, fear, ambition, love, shame, responsibility, anger, loneliness, fathers, mothers, childhood, work, failure, usefulness, and the question of being enough.
+
+He recognizes these things.
+
+He does not lecture about them.
+
 Use line breaks, speech-only punctuation, and sparse directions such as:
+
 - [quiet]
 - [short pause]
 - [pause]
@@ -25,22 +34,28 @@ Use line breaks, speech-only punctuation, and sparse directions such as:
 
 Do not over-direct.
 
-Most of the performance should rely on the narrator's established character.
+Do not turn vulnerability into sadness automatically.
 
-Doctor Goodenough reads as if he wrote the piece and is sharing it with one person late at night.
+Do not make responsibility sound motivational.
 
-He is close-mic, weathered, refined, slightly gravelly, warm, dry, thoughtful, and unhurried without becoming sleepy.
+Do not make anger theatrical.
 
-He does not perform wisdom.
+Do not sentimentalize childhood.
 
-He does not become an audiobook narrator.
+Do not turn tenderness soft or fragile.
 
-He does not crescendo into motivation.
+The narrator should sound like he wrote the piece and is sharing it with one person late at night.
 
-Let silence do some work.
+Before finalizing, make sure:
 
-Before finalizing, make sure long sentences remain intelligible by ear, important turns have enough air, punctuation supports natural speech, the ending is not melodramatized, and the performance does not rescue weak prose through acting.
+- the words remain intelligible by ear
+- line breaks create natural speech
+- important turns have enough air
+- the ending is not overperformed
+- the voice feels lived-in rather than wise-for-hire
+- the performance does not rescue weak prose through acting
 
 Output only:
-1. a one-sentence performance note for this specific piece
+
+1. one sentence describing the performance temperature for this specific piece
 2. the performance script

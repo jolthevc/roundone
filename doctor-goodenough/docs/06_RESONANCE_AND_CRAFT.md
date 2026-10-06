@@ -1,121 +1,133 @@
 # 06 — Resonance and Craft
 
-## The resonance model
+## The resonance equation
 
-The strongest Doctor Goodenough pieces often create three sensations at once:
+The strongest Doctor Goodenough pieces often create:
 
-**Recognition** — I know this.
+**Recognition**  
+I know this feeling.
 
-**Surprise** — I have never heard it put this way.
+**Exposure**  
+I do not usually say this out loud.
 
-**Inevitability** — Now that you have said it, of course it is true.
+**Surprise**  
+I have never heard it described this way.
+
+**Inevitability**  
+Now that it has been said, of course it is true.
 
 That is the "wow."
 
-Not cleverness alone.
+## Available craft moves
 
-Not beauty alone.
-
-Not advice alone.
-
-## A writer's toolbox
-
-These are available moves, not requirements.
+These are tools, not requirements.
 
 ### Specificity that becomes universal
 
-Specific human detail can create broader recognition than generic statements.
+Use the exact behavior, object, sentence, gesture, room, or habit.
 
-Look for the exact behavior, object, sentence, room, gesture, or habit.
+Specificity often makes the work more universal, not less.
 
-### The associative leap
+### The hidden masculine question
 
-Connect two things that are not normally placed together and discover that they share a structure.
+Look beneath the stated problem.
 
-This should reveal, not merely surprise.
+Is this really about:
+
+- being enough
+- being respected
+- being chosen
+- making someone proud
+- being useful
+- being afraid
+- failing to provide
+- losing control
+- needing someone
+- becoming like a father
+- disappointing a father
+- time running out
+
+Do not force one of these onto every piece. Look for it when it is truly there.
 
 ### Contradiction
 
-Human beings routinely contain two true things at once.
+Men often live inside contradictions.
 
-You can love and leave.
+Strong and frightened.
 
-Be grateful and want more.
+Proud and ashamed.
 
-Know the decision was right and miss what it cost.
+Loved and lonely.
 
-Contradiction creates dimensionality.
+Successful and still trying to impress someone.
+
+Protective and controlling.
+
+Independent and desperate to be needed.
+
+Contradiction creates depth without requiring explanation.
 
 ### Tiny behavior, large feeling
 
-Find the small act that exposes the larger interior condition.
+Find the behavior that exposes the interior state.
 
-This is often more powerful than naming the emotion.
+### The associative leap
+
+Connect two things that do not normally sit together.
+
+The connection itself may become the discovery.
+
+### The orbit
+
+Allow a thought to wander through memory, scale, time, or association if the movement remains emotionally connected.
+
+### The return
+
+Something from the opening may return altered at the end.
+
+Use it when it feels inevitable, not because the canon mentions it.
 
 ### Negative space
 
-Do not explain what the reader already understands.
-
-Meaning can live in what is omitted.
-
-### Echo and callback
-
-Allow a phrase, object, image, or question to return later changed by context.
-
-The return can make the piece feel inevitable without making it formulaic.
-
-### Defamiliarization
-
-Make something ordinary visible again.
-
-Ask what people have seen a thousand times but stopped seeing.
+Do not say what the reader has already understood.
 
 ### Rhythm
 
-Use sentence length, punctuation, repetition, silence, and interruption as emotional tools.
-
-Sound is part of meaning.
+Line break, repetition, punctuation, sentence length, and silence all carry emotion.
 
 ### Tonal surprise
 
-A dry line, tiny joke, blunt sentence, or sudden warmth can keep the work human.
+A dry joke, blunt sentence, or moment of absurdity can make vulnerability more believable.
 
-Solemnity is not depth.
+### Temporal contrast
 
-### Subtext
+Doctor Goodenough has access to three powerful horizons:
 
-Know the sentence beneath the sentence.
+**Past**  
+Who were you before you learned to measure yourself?
 
-The stated topic may not be the deepest subject.
+**Present**  
+Are you becoming someone you respect?
 
-### Scale
+**Future**  
+Will there be enough time? Will you find love? Will you make them proud? Will the life work?
 
-Doctor Goodenough can move between scales: a screw in a jar, a father's childhood, inheritance, time, mortality, and back to the screw.
-
-The movement should feel connected.
-
-### Full-circle return
-
-A piece may float or drift and still come home.
-
-When the beginning returns at the end with altered meaning, the reader feels the architecture without seeing the scaffolding.
+A piece may move among these without announcing the structure.
 
 ## Communication
 
-Making something complex simple is not simplification in the pejorative sense.
+The goal is often to make something complex simple.
 
-It is compression of understanding.
+A perfect sentence can hold a lifetime of argument.
 
-The best line can hold an entire argument inside an image.
+That does not mean reducing life to slogans.
 
-A good Doctor Goodenough piece does not prove how much the writer knows.
+It means finding the image, contradiction, or connection that allows the reader to understand several things at once.
 
-It lets the reader suddenly know something too.
+## The key question
 
-## The key editorial question
+> **Where is the moment in this piece where language does something ordinary explanation could not?**
 
-> **Where is the moment in this piece where language does something ordinary language could not?**
-
-If there is no such moment, the piece may be competent.
+If there is no answer, the piece may be competent.
 
 It may not yet be Doctor Goodenough.

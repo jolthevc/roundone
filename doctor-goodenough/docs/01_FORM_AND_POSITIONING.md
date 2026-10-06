@@ -1,72 +1,117 @@
 # 01 — Form and Positioning
 
-## The form
+## What Doctor Goodenough is
 
-Doctor Goodenough lives between several literary traditions without fully belonging to any one of them:
+Doctor Goodenough sits between:
 
-- micro-essay
+- literary micro-essay
+- prose poetry
 - flash nonfiction
 - meditation
-- lyric essay
-- prose poem
-- personal note
+- confession
 - miniature argument
-- literary observation
+- observation
+- note to self
+- tiny scene
 
-Internally, the most useful description is:
+The work does not need to choose one form.
 
-> **A literary micro-essay: a small act of thinking that begins with something recognizably human, discovers something inside it, and leaves residue behind.**
+The form should serve the thought.
 
-This is not motivational prose.
+A piece can be three paragraphs.
 
-It is not a quote account.
+Another can be twelve short lines.
 
-It is not therapy language.
+Another can be a question followed by one image.
 
-It is not a shortened ROUND ONE script.
+Another can begin in dialogue.
 
-It is not required to be a parable.
+Another can drift through memory and return.
 
-## What distinguishes it
+## What Doctor Goodenough is not
 
-A weak short post starts with an idea and restates it beautifully.
+It is not:
 
-A Doctor Goodenough piece must allow **something to happen to the thought**.
+- generic inspirational writing
+- a quote account
+- sadness-core
+- therapy-core
+- healing-content by default
+- stoicism cosplay
+- macho motivation
+- grindset masculinity
+- advice from a guru
+- a shortened ROUND ONE script
+- ornamental poetry with no discovery
 
-The writer may begin with one interpretation and leave with another.
+## Emotional positioning
 
-The piece may uncover the hidden subject beneath the obvious subject, discover a contradiction, connect two distant ideas, notice a tiny behavior that reveals a large feeling, reinterpret an object or memory, zoom out in scale and return, or admit uncertainty rather than manufacture certainty.
+The project is about **male interiority under pressure**.
 
-The piece should contain discovery, not merely packaging.
+The pressures include:
+
+- being good enough
+- making people proud
+- finding and keeping love
+- being useful
+- providing
+- protecting
+- becoming respectable
+- hiding fear
+- handling anger
+- competing
+- failing
+- aging
+- watching parents age
+- missing childhood
+- losing innocence
+- wondering whether there is still time
+- imagining the future
+- regretting the past
+- trying to become someone you can respect
+
+The work may be sad sometimes.
+
+It must not become a sadness brand.
+
+It should also contain humor, ordinary joy, nostalgia, desire, absurdity, competition, friendship, tenderness, hope, pride, and moments where life feels astonishingly good.
+
+## Immediate entry
+
+Strong pieces tend to enter quickly.
+
+They do not spend thirty words announcing the theme.
+
+Begin at the bruise, the observation, the image, the contradiction, the confession, or the question.
+
+## Discovery can be compact
+
+Discovery does not always require a visible essayistic journey.
+
+Sometimes the connection itself is the discovery.
+
+One powerful image may contain the whole psychological argument.
+
+When that happens, trust it.
+
+Do not build an essay around a line that already contains the piece.
 
 ## Length
 
-Normal working range: **70 to 180 words**.
+Typical working range: **55 to 130 words**.
 
-Most pieces will probably settle around 100 to 150.
+Shorter is welcome when the idea can carry itself.
 
-This is not a quota.
+Longer is welcome when the thought genuinely needs room.
 
 The standard is:
 
-> **The shortest version that preserves the discovery.**
-
-If a piece is complete at 82 words, stop.
-
-If a remarkable piece needs 205 words and still reads beautifully on the page, do not damage it to obey a number.
+> **The shortest version that preserves the feeling and discovery.**
 
 ## Relationship to ROUND ONE
 
-ROUND ONE is the flagship spoken-word experience.
+ROUND ONE is the flagship spoken-word product. It can be cinematic, expansive, forceful, and overtly activating.
 
-Doctor Goodenough is a separate literary object in the same emotional universe.
+Doctor Goodenough is smaller, more literary, more intimate, and more still.
 
-ROUND ONE can be cinematic, forceful, narratively expansive, and overtly activating.
-
-Doctor Goodenough is quieter.
-
-He changes the reader's state through attention, language, connection, perspective, and human recognition.
-
-The shared promise is simple:
-
-> You should return to your life seeing something a little differently.
+The shared promise is that the listener or reader should return to life seeing something differently.

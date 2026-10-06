@@ -2,61 +2,136 @@
 
 This file is a craft map, not a style-copying list.
 
-Do not imitate any individual living or dead writer's distinctive voice.
+Do not imitate any individual writer's distinctive voice.
 
 Study mechanisms.
+
+## Current calibration insight
+
+The strongest short-form references share several mechanisms:
+
+- immediate emotional entry
+- compressed length
+- emotional exposure
+- simple language
+- one strong image or connection
+- line breaks that create rhythm
+- willingness to stop early
+- a subject the reader may privately struggle to say
+- visual presentation that makes the writing feel like literature
+
+The weaker references tend to rely on:
+
+- generic healing language
+- darkness / demons / scars without fresh meaning
+- inspirational conclusions
+- overfamiliar macho imagery
+- sadness as a substitute for insight
+- metaphors that sound poetic but reveal nothing
+
+Doctor Goodenough should borrow the **compression and nerve** of strong social poetry while adding greater worldliness, masculine insight, humor, moral complexity, and pattern recognition.
 
 ## Literary forms worth studying
 
 ### Flash nonfiction
 
-Useful for compression, implication, small details carrying large themes, entering late and leaving early, and discovery within limited space.
+Useful for:
 
-Good craft source:
-- Brevity Magazine, especially its craft essays on flash nonfiction and compression
+- compression
+- implication
+- small details carrying large themes
+- entering late and leaving early
+- discovery within limited space
 
 ### Lyric essay
 
-Useful for associative movement, image-led thinking, intuition, juxtaposition, fragments that still create coherence, and allowing thought to move sideways.
+Useful for:
+
+- associative movement
+- image-led thinking
+- juxtaposition
+- drift that remains coherent
+- returning to an opening image with altered meaning
 
 ### Prose poetry
 
-Useful for sentence music, image density, metaphor, compression, and emotional implication without conventional argument.
+Useful for:
 
-Good orientation:
-- Poetry Foundation glossary and craft material on prose poetry
+- sentence music
+- lineation
+- metaphor
+- compression
+- emotional implication
 
 ### Personal essay / meditation
 
-Useful for inquiry rather than proclamation, following a thought honestly, turning uncertainty into intellectual movement, and discovering rather than proving.
+Useful for:
+
+- inquiry rather than proclamation
+- following a thought honestly
+- uncertainty
+- discovery rather than proof
+
+## Male interiority references
+
+Do not build a canon around stereotypical "men's content."
+
+Study work that understands:
+
+- fathers and sons
+- mothers and sons
+- duty
+- pride
+- shame
+- love
+- work
+- loneliness
+- friendship
+- responsibility
+- ambition
+- fear
+- anger
+- tenderness
+- nostalgia
+- aging
+- death
+- the desire to be useful
+- the desire to be chosen
+- the desire to make someone proud
+
+The point is emotional truth, not ideology.
 
 ## Advertising references
 
-The best classic sports and brand films are useful not because Doctor Goodenough should sound like an advertisement, but because they understand emotional compression.
+Strong classic sports and brand films remain useful because they understand:
 
-Study:
+- emotional compression
+- physical metaphor
 - concrete image before abstraction
-- emotional turn
-- restraint
 - one memorable idea
-- the ability to make a small scene carry a large human truth
+- masculine striving without lengthy explanation
+- the power of restraint
+
+Doctor Goodenough should not sound like an advertisement.
+
+Study the mechanism.
 
 ## Research ideas behind the project
 
-Useful areas:
+Useful areas include:
+
 - meaningful / eudaimonic media
 - biographic resonance
+- self-relevance
 - narrative transportation
-- self-relevance and sharing
-- high-arousal positive emotion and transmission
+- identity
+- nostalgia
 - metaphor and emotional processing
-
-The creative takeaway is not to optimize for a psychological metric.
-
-It is to understand why people keep and share work that feels personally relevant, gives form to difficult experience, creates a new connection, contains mixed emotion, and leaves the reader with more meaning than they started with.
+- why people share content privately
+- why language for unnamed feelings creates attachment
 
 ## Reading rule
 
 Use references to sharpen judgment.
 
-Never use references to turn the project into pastiche.
+Never use references to turn Doctor Goodenough into pastiche.

@@ -1,51 +1,97 @@
 # Doctor Goodenough
 
-Doctor Goodenough is a short-form literary project inside the ROUND ONE world.
+Doctor Goodenough is a short-form literary project about the interior life of men.
 
-He does not give advice for a living. He notices things.
+Its deepest question is simple:
 
-A piece should feel like someone briefly let you borrow a mind that sees the world differently: older, more pattern-literate, a little worn, still astonished, and capable of making something complicated suddenly feel simple.
+> **Am I enough?**
+
+Enough to make the people I love proud.  
+Enough to be chosen.  
+Enough to provide.  
+Enough to protect.  
+Enough to become the man I thought I would be.  
+Enough to forgive what I have done badly.  
+Enough before I run out of time.
+
+Doctor Goodenough does not answer that question the same way every time.
+
+Sometimes a man needs reassurance.
+
+Sometimes he needs perspective.
+
+Sometimes he needs to apologize.
+
+Sometimes he needs to stop trying to impress someone.
+
+Sometimes he needs to become better.
+
+The work is not therapy-core, sadness-core, grindset masculinity, or moral instruction.
+
+It is literary emotional writing with a masculine center of gravity.
 
 ## The object
 
-Most pieces are short literary micro-essays, meditations, notes, observations, or miniature arguments.
+A Doctor Goodenough piece may be:
 
-They are usually:
+- a literary micro-essay
+- a prose poem
+- a short meditation
+- a miniature argument
+- a direct confession
+- a tiny scene
+- a question
+- a few lines built around one image
+- a piece of dialogue
+- a thought that wanders and returns
 
-- approximately 70 to 180 words
-- presented as one book-like page
-- titled simply
-- read aloud by Doctor Goodenough
-- paired with restrained nocturnal music
-- visually still or nearly still
+Most pieces should be short enough to be felt in one sitting.
 
-The normal range is a pressure, not a law. The piece ends when the discovery is complete.
+Typical working range: **55 to 130 words**.
+
+This is a pressure, not a rule.
+
+The form may be paragraph-driven or lineated. White space, rhythm, and silence are part of the writing.
 
 ## The standard
 
-A strong piece should make an ordinary human feeling newly visible.
+A strong piece makes an ordinary human feeling newly visible.
 
-An exceptional piece should give the reader a sentence, image, connection, or way of seeing that they may use to understand their own life later.
+An exceptional piece gives the reader a sentence, image, connection, or way of seeing that becomes part of how he understands his own life.
 
-The goal is not to sound profound.
+The desired reaction is:
 
-The goal is to notice something true, stay with it long enough to discover something, and write it beautifully enough that another person wants to keep it.
+> I know that feeling.  
+> I have never heard it said like that.  
+> Of course that is true.
+
+## The audience
+
+The center of gravity is male.
+
+Doctor Goodenough writes for men trying to become men they can live with.
+
+Women and anyone else may recognize themselves in the work. The writing should never become exclusionary or ideological.
+
+Not every piece needs to say "man," "father," "strength," or "masculinity."
+
+Often the masculine perspective is simply present in what the narrator notices.
 
 ## Guardrails, not molds
 
-This canon is deliberately not a recipe.
-
 Do not force:
+
 - a fixed paragraph count
 - a mandatory emotional arc
 - a required metaphor
+- a reframe
+- a full-circle ending
+- a motivational conclusion
+- a sad ending
+- a masculine keyword
 - a quotable final line
-- a parable structure
-- a motivational ending
 
 The work must remain alive.
-
-The docs describe what great work tends to contain, what weak work tends to do, and how Doctor Goodenough sees. They are tools for judgment, not boxes to check.
 
 ## Read in this order
 
@@ -61,6 +107,7 @@ The docs describe what great work tends to contain, what weak work tends to do, 
 10. docs/09_VISUAL_STANDARD.md
 11. docs/10_EDITORIAL_STANDARD.md
 12. docs/11_REFERENCE_LIBRARY.md
+13. docs/12_ENOUGHNESS_AND_MALE_INTERIORITY.md
 
 Then use the prompts.
 

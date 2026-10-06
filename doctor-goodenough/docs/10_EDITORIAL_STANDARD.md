@@ -6,79 +6,111 @@ Do not build a 100-point rubric.
 
 Models learn to satisfy rubrics until every piece tastes the same.
 
-Editorial review should ask what is alive, what is false, what is generic, and what the piece has actually discovered.
+Editorial review should identify what is alive, what is false, what is generic, and what the piece has actually made visible.
 
 ## Core review questions
 
 1. What is the piece apparently about?
 2. What is it really about underneath that?
-3. What does it discover that was not already obvious in the premise?
-4. Where does the thought genuinely move?
-5. Which sentence has the most life in it?
-6. Where does the prose sound generic, synthetic, inherited, overly polished, or social-media familiar?
-7. Is there an image, behavior, connection, or phrase that makes the abstract felt?
-8. Is any metaphor merely decorative?
-9. Is anything overexplained?
-10. Does the piece leave enough negative space?
-11. Does the structure feel organic or templated?
-12. Does Doctor Goodenough sound worldly and human rather than omniscient?
-13. Does the piece mistake sadness for depth, obscurity for intelligence, or reassurance for insight?
-14. Does the ending feel discovered or manufactured?
-15. Would it work when read aloud?
-16. What remains after reading?
-17. Would this still be worth reading with all branding removed?
-18. Would you send it to one specific person?
+3. What male interior pressure, if any, is actually present?
+4. Does the piece feel emotionally exposed or emotionally protected?
+5. Is the core feeling specific enough to be recognized?
+6. What does the piece discover, or what connection contains the discovery?
+7. Which line or image has the most life?
+8. Is there a line the reader may carry into his own life?
+9. Where does the prose become generic, synthetic, therapeutic, motivational, or internet-poetic?
+10. Is the masculinity real or performative?
+11. Does the writing respect men while still telling the truth about them?
+12. Is the piece using sadness as a shortcut to seriousness?
+13. Is it using elemental imagery because it is right, or because it sounds masculine?
+14. Is anything overexplained?
+15. Does the piece stop soon enough?
+16. Does the form fit the thought, or has prose been forced into a template?
+17. Would the piece still work aloud?
+18. Would this be worth reading with all branding removed?
+19. Would a man send it privately to someone because it said something he could not?
+20. Does the conclusion belong to this piece, or could it have been pasted onto fifty others?
 
-## Revision outputs
+## Critical failure modes
 
-Editorial review should identify:
-- KEEP: the elements that must survive revision
-- CUT / QUESTION: what is weakening the piece
-- DEEPEN: where a more truthful or surprising connection may exist
-- REVISION INTENT: one concise paragraph describing the next pass
+Deeply revise or reject when:
 
-Protect what is alive.
-
-## Common rejection reasons
-
-Reject or deeply revise when:
-- nothing is discovered
-- the idea is true but obvious
-- the piece merely paraphrases its opening
-- the writing is beautiful but emotionally empty
-- metaphors decorate rather than reveal
-- the prose leans on social-media clichés
-- the ending explains the image
-- the ending becomes a slogan
-- every sentence is trying to be quotable
-- the emotional register never changes
-- the piece sounds therapeutically reassuring by default
-- the narrator is pretending to possess cosmic certainty
-- the writing relies on fake biography
-- the structure feels visibly templated
+- the piece is simply "sad Instagram"
+- the writing becomes therapy-core
+- the piece reassures by default
+- the piece becomes grindset / alpha / stoic performance
+- nothing is actually exposed
+- the central insight is obvious
+- the piece explains its own metaphor
+- the ending turns into a slogan
+- every line is trying to be quotable
+- the narrator becomes a guru
+- masculinity is treated either as pathology or mythology
+- the piece relies on fake biography
+- the cadence feels generated
+- a strong line has been padded into a weak essay
+- nostalgia is generic rather than specific
 
 ## Revision philosophy
 
-Do not automatically rewrite the entire piece.
+Diagnose before rewriting.
 
-Diagnose first.
+Protect what has life.
 
-Preserve the parts with life.
+A revision may need:
 
-A revision may need a better image, a more honest opening, removal of explanation, a deeper hidden subject, a sharper contradiction, a more surprising association, a plainer ending, fewer metaphors, more concrete detail, or more air.
+- less explanation
+- more emotional risk
+- a more exact image
+- a fresher association
+- a hidden subject
+- a stronger contradiction
+- a plainer sentence
+- more white space
+- a shorter ending
+- humor
+- more respect
+- more responsibility
+- less reassurance
+- less "poetry"
+- more ordinary reality
 
 Sometimes the right revision is deletion.
 
 ## Gold standard
 
-A gold-standard piece should demonstrate one way to be excellent, not the one way.
+A gold-standard library must show many different ways to be Doctor Goodenough.
 
-The eventual gold library should intentionally contain different modes: funny, spare, lyrical, direct, aching, strange, joyful, narrative, argumentative, intimate, dry, and expansive.
+It should eventually contain pieces that are:
 
-If every gold example shares the same cadence, emotional arc, and ending shape, the gold library has failed.
+- tender
+- masculine
+- funny
+- nostalgic
+- romantic
+- morally serious
+- angry but controlled
+- joyful
+- direct
+- lyrical
+- sparse
+- strange
+- about family
+- about love
+- about work
+- about childhood
+- about failure
+- about friendship
+- about the future
+
+If every gold example is melancholy, the library has failed.
+
+If every gold example is about fathers, the library has failed.
+
+If every gold example has the same structure, the library has failed.
 
 ## Final question
 
-> **Where is the moment in this piece where language does something ordinary language could not?**
+> **Did this piece give a man language for something he has felt but rarely known how to say?**
 
-If there is no answer, keep working.
+If not, keep working.
