@@ -40,6 +40,8 @@ Failure mode: sentimental, grandfatherly, artificially wise, theatrical.
 
 Direction: speak like you have seen this mistake before and still believe the listener has time.
 
+**Separation from Doctor Goodenough:** The Elder is a ROUND ONE performance archetype, not Doctor Goodenough. It must not share Doctor Goodenough's voice ID, voice-design prompt, or casting. The two older male voices should be distinguishable within a few seconds.
+
 ## 2. The Commander
 
 Function: clarity, discipline, decisiveness, action.

@@ -137,6 +137,8 @@ Social video may use:
 
 Social derivatives are distribution assets, not the canonical Round.
 
+**Doctor Goodenough is a separate creative property, not a ROUND ONE social derivative. Do not cut Rounds into Doctor Goodenough pieces or expand Doctor Goodenough pieces into Rounds by default. Its canon lives under `doctor-goodenough/` and is independently scoped.**
+
 ## Product experience principles
 
 The player should feel:
@@ -157,7 +159,7 @@ Avoid:
 
 ## What remains intentionally unresolved
 
-The following are deferred:
+The following are deferred for the ROUND ONE flagship:
 - app versus web architecture
 - SMS/RCS/iMessage-style delivery implementation
 - authentication

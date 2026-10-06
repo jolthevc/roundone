@@ -1,8 +1,10 @@
 # System
 
-System architecture is intentionally deferred.
+> **Scope:** This note applies to the ROUND ONE flagship. Doctor Goodenough has a separate lightweight production architecture under `doctor-goodenough/ops/`.
 
-Do not build workflow infrastructure until the creative canon has been tested through real end-to-end Rounds.
+System architecture for ROUND ONE is intentionally deferred.
+
+Do not build ROUND ONE workflow infrastructure until the creative canon has been tested through real end-to-end Rounds.
 
 Future system topics may include:
 - production console

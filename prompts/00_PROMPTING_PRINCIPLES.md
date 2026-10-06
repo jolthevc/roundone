@@ -1,10 +1,12 @@
 # Prompting Principles
 
+> **Scope:** These principles and the pipeline below apply to ROUND ONE. Doctor Goodenough uses its own context contract in `doctor-goodenough/manifest.yaml`.
+
 The prompts in this directory are execution briefs.
 
-They do not replace the creative canon.
+They do not replace the ROUND ONE creative canon.
 
-Before running a prompt, provide the relevant docs as context.
+Before running a ROUND ONE prompt, provide the relevant docs as context.
 
 ## Hierarchy
 
@@ -21,7 +23,7 @@ Prefer:
 - explicit inputs
 - explicit output structure
 - reference to canon
-- self-critique before final output
+- self-critique before final output when useful for the specific job
 
 Avoid:
 - one mega-prompt that ideates, writes, performs, scores, and approves everything
@@ -30,7 +32,7 @@ Avoid:
 
 ## Creative pipeline
 
-Recommended sequence:
+Recommended ROUND ONE sequence:
 
 1. ideation
 2. treatment
@@ -45,4 +47,4 @@ Recommended sequence:
 11. visual generation
 12. final QC
 
-The workflow implementation comes later.
+The ROUND ONE workflow implementation comes later.
