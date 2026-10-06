@@ -129,3 +129,11 @@ The work must remain alive.
 Then use the prompts.
 
 Gold standards are intentionally empty until real pieces earn the designation.
+
+## Automation
+
+The production system is documented separately so operational instructions do not contaminate creative prompting:
+
+- `docs/13_AUTOMATION_ARCHITECTURE.md`
+
+The intended production model is three small operating workflows: **Ideation**, **Creation**, and **Publish**, plus a shared error handler. Creation is strictly one piece per run.
