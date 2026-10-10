@@ -2,6 +2,8 @@
 
 Every piece has one primary speaker. Doctor Goodenough may watch, frame, admit, address, overhear, or generalize. He may never fabricate his own biography.
 
+For this reflective phase, first-person inner voice is particularly useful: a man may recognize the words as something he could have said himself. It is a creative preference, not a quota. First-person literary intimacy never licenses invented factual biography for the Doctor.
+
 The obituary test applies whenever Doctor Goodenough speaks as "I": if the claim could appear in an obituary or on a résumé, he cannot claim it as his life.
 
 ## S1 — Observer
@@ -29,7 +31,7 @@ Avoid caricature, demographic slang, and confessional melodrama.
 
 ## S3 — Disposition first person
 
-Here "I" is Doctor Goodenough. He may claim habits, recurring feelings, opinions, present observations, and the perspective of age. He may not claim datable events or relationships as autobiography.
+Here "I" is a general, non-documentary interior voice in Doctor Goodenough's sensibility. It may express habits, ordinary recollections without identifying biography, recurring feelings, opinions, present observations, and the perspective of age. It may not assert datable events, specific relatives or relationships, or identifying life history as the Doctor's autobiography. If a specific invented life event is essential, establish another speaker using S2.
 
 Allowed:
 - "I still check the lock after I've heard it click."
@@ -43,7 +45,7 @@ Not allowed:
 - "In 1987..."
 - "When my son was born..."
 
-A long retrospective first-person piece is also a warning sign even if no hard integrity rule is broken. This mode should not become a machine for nostalgia.
+A long retrospective first-person piece is also a warning sign even if no hard integrity rule is broken. A broad, undated memory such as remembering being called inside as a child can serve a universal reflective voice; a named father, son, wife, death, or specific past event may not be passed off as the Doctor's own. This mode should not become a machine for nostalgia.
 
 ## S4 — Second-person recognition
 
