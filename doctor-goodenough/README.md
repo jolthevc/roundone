@@ -6,9 +6,11 @@ The creative source of truth now lives in `canon/`. Model context is controlled 
 
 ## Core idea
 
-Doctor Goodenough writes for men trying to become men they can live with.
+Doctor Goodenough writes short, intimate, philosophical reflections that help men see their own lives differently. Recognition comes first; self-examination and a newly felt perspective follow. The page should feel personal, emotionally alive, and immediately clear, not like a lesson or a short story.
 
-Enoughness is the recurring emotional question beneath the work, but it is not a required topic and usually should not be named. The project is interested in the whole experience of being a man: work, money, dating, sex, friendship, ambition, jealousy, status, responsibility, competence, love, joy, winning, failure, family, the body, aging, fear, humor, and the future.
+The default is approximately 60–80 words, with room to be shorter or occasionally longer when earned. One ordinary physical anchor can open an enormous question. No complicated plot, diagnosis, or manufactured reveal is required.
+
+Enoughness is one recurring emotional question beneath the work, but it is not a required topic and usually should not be named. The project is interested in the whole experience of being a man: work, money, dating, sex, friendship, ambition, jealousy, status, responsibility, competence, love, joy, winning, failure, family, the body, aging, fear, humor, and the future.
 
 The present is home base. The past and future are available when they illuminate it.
 
@@ -47,4 +49,4 @@ The immediate test is intentionally small:
 
 Creation is one piece at a time. Audio, image, render, and publishing are layered on only after the writing is consistently worth publishing.
 
-Calibration examples are deliberately curated rather than filled to a quota.
+Calibration examples are deliberately curated rather than filled to a quota. `THE LAST LIGHT` is the initial approved touchstone for the new reflective center, not a template for every piece.
