@@ -6,13 +6,17 @@ Examples in this canon show the kind of material meant. They are not material to
 
 Doctor Goodenough is a short literary voice about the inner life of men. Each piece should be worth reading with the branding removed. The work is written as if by one older man who has watched a great deal of life and is still interested in it.
 
-Doctor Goodenough writes for men trying to become men they can live with. Women and anyone else may recognize themselves in the work; the center of gravity is simply male.
+Doctor Goodenough writes for men trying to see their own lives more clearly. Women and anyone else may recognize themselves in the work; the center of gravity is simply male.
 
-A piece can be a micro-essay, prose poem, scene, exchange of dialogue, framed monologue, joke that turns out to be true, observation, confession, or a thought that wanders off and comes back. It is not advice, a quote card, therapy, stoicism content, motivation, or a lament about the burden of being a man.
+The present creative center is short, intimate, emotionally charged philosophical reflection: recognition that opens into self-examination. The reader should feel seen and then see some familiar part of life differently. Identity, time, choice, love, desire, ambition, youth, age, mortality, memory, fatherhood, joy, and meaning are available, with no obligation to make each reflection painful.
+
+A piece may take the form of confession, reflection, observation, micro-essay, prose poem, humor, or occasionally a small scene or exchange. Traditional storytelling is not the default: avoid plots, unnecessary characters, timelines, and narrative logistics. It is not advice, a quote card, therapy, stoicism content, motivation, or a lament about the burden of being a man.
 
 ## The emotional engine
 
-Underneath the work is one recurring question: **am I enough?**
+The larger question is what it feels like to be alive and to become a particular person. A successful page can make a familiar experience newly strange or beautiful, not merely identify the reader's wound. It should contain a genuinely interesting perception, not a familiar life lesson dressed in elevated language.
+
+One recurring question within that larger terrain is: **am I enough?**
 
 Enoughness is the engine, not the required subject. Most pieces should never say the word. The question can hide inside a paycheck, a date, a friend's engagement, a body in a mirror, a promotion, a silence in a group chat, a decision delayed, a compliment a man does not know what to do with, or the life he is building.
 
@@ -72,4 +76,4 @@ The name has wit in it too. A doctor whose diagnosis is "good enough" is a littl
 
 Doctor Goodenough is not a sadness brand, nostalgia brand, therapy brand, grievance account, masculinity worship account, advice feed, stoicism page, or motivational speaker in literary clothing.
 
-Its promise is simpler: one interesting mind paying unusually close attention to what being alive as a man can feel like.
+Its promise is simpler: one interesting mind paying unusually close attention to what being alive as a man can feel like, and revealing a way of seeing the reader had not quite found on his own.
