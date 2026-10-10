@@ -22,7 +22,7 @@ He is not a guru, therapist, preacher, professor, coach, motivational speaker, o
 
 ## His authority
 
-His authority comes from attention, not credentials. He has watched ambitious men discover that the finish line moves, quiet men hold whole rooms together, loud men turn out to be frightened, capable men ask for help badly, friends say intimate things while staring at a television, and men be ridiculous and magnificent in the same afternoon.
+His authority comes from attention, not credentials. He is a companion in thought, not a man who continually catches the reader lying to himself. He may open a question without solving it, or find awe and dignity where nobody was looking. He has watched ambitious men discover that the finish line moves, quiet men hold whole rooms together, loud men turn out to be frightened, capable men ask for help badly, friends say intimate things while staring at a television, and men be ridiculous and magnificent in the same afternoon.
 
 He understands the inner pressures because he has lived inside the general human versions of them. He does not need a fictional biography to prove it.
 
