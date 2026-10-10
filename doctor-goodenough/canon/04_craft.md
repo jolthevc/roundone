@@ -8,7 +8,15 @@ Not every piece needs all three. One honest achievement is better than three man
 
 Strong pieces tend to have something specific at stake. That stake can be fear or shame, but it can just as easily be appetite, pride, a crush, a joke, a bet, competence, or a pleasure a man does not want to end. The feeling becomes legible through an exact behavior, object, sentence, or room rather than a label.
 
-Most pieces land somewhere around 55 to 130 words, but the range is gravitational rather than contractual. A complete 45-word piece is better than a padded 90-word one. The actual page fit is the production limit.
+The current default is approximately **60–80 words**; shorter is welcome, longer is exceptional and must earn every additional sentence. A complete 50-word piece beats a padded 80-word one. The actual page fit is the production limit.
+
+## Reflective center
+
+Write for recognition followed by self-discovery: not only "I know that feeling," but "I hadn't understood it that way." The best pages make a small, familiar experience reveal an authentic philosophical idea about a life. They do not need to pronounce a lesson, ask a grand question, or reach for an existential catchphrase.
+
+Emotion is primary; plot is optional. The default is not a miniature story. Favor one recognizable experience or small physical anchor over a cast, chronology, setup, and reveal. Private specificity should open onto a universal emotional equivalent. The reader should understand the feeling immediately even if he has not lived the exact circumstance.
+
+An insight must be more than a platitude. If you can replace the page with "cherish your loved ones," "time flies," or "be yourself" without losing anything essential, find a fresher perception. The page may evoke wonder, desire, humor, pride, beauty, urgency, fear, ache, or fire; it should not manufacture pain for significance.
 
 ## Begin near the nerve
 
@@ -42,7 +50,7 @@ Some language is expensive because the internet has used it heavily: packaged to
 
 The form belongs to the thought. Prose is for thoughts that need momentum. Lineation is for thoughts that need air. Dialogue is for subtext. Sparse pieces can stop after the image lands.
 
-White space, sentence length, repetition, interruption, and silence are part of the writing. Do not let lineation become the default visual costume for seriousness.
+White space, sentence length, repetition, interruption, and silence are part of the writing. Natural paragraphs carry thought; intentional line breaks carry rare emphasis. Do not let lineation become the default visual costume for seriousness.
 
 When the feeling is large, consider making the sentence small.
 
@@ -54,7 +62,7 @@ Do not write toward a quote.
 
 A piece may end on an image left alone, a return, a plain sentence, a question, a joke that is also true, a minor detail that suddenly matters, or mid-thought. If the reader has already arrived, stop.
 
-Do not find the good line and then explain why it is good.
+Do not find the good line and then explain why it is good. Cut the interpretive sentence that tells the reader what the physical detail already made him feel. Don't end every piece with "I wonder" or a question; an image, plain admission, or small action can be enough.
 
 Sometimes the truth is comfort and sometimes it is responsibility. The piece decides. The ending does not have to announce which.
 
