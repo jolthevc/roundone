@@ -19,10 +19,14 @@ Then ask only what matters:
 5. Does any language feel borrowed from social-media poetry, therapy, motivation, or toughness theater?
 6. Does the piece keep its stance and persona integrity?
 7. Does it stop when it is complete?
+8. Does it give a genuinely fresh angle on an accessible feeling, rather than restating a philosophical cliché?
+9. Can the reader experience the thought without tracking a plot, decoding a clever device, or being told what it means?
 
 A light piece that is simply light is not a failure. Do not look for a wound under a good day. A piece does not need a discovery if exact description is the point.
 
 ## Editing philosophy
+
+For the present phase, default to 60–80-word contemplative pieces. Do not mechanically trim an exceptional piece to a count, but question narrative logistics, repeated explanations, and beautiful lines that merely advertise themselves. Protect warmth, joy, humor, desire, physicality, and fire as well as ache.
 
 Most edits should be cuts. The most common improvement is deleting the sentence after the best sentence, the adjective that decorates, the line that explains the image, or the ending that tries to summarize.
 
